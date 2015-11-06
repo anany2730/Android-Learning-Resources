@@ -30,6 +30,7 @@ Android学习资源网站大全
 * [qinjuning](http://blog.csdn.net/qinjuning) —— CSDN 博客专家
 * [工匠若水](http://blog.csdn.net/yanbober) —— CSDN 博客专家
 * [张兴业](http://blog.csdn.net/xyz_lmn) —— CSDN 博客专家
+* [Code-pig](http://blog.csdn.net/coder_pig) —— CSDN 博客专家，最佳入门专栏
 
 ## 二、官方学习网站
 
