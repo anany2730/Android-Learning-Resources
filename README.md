@@ -31,6 +31,11 @@ Android学习资源网站大全
 * [工匠若水](http://blog.csdn.net/yanbober) —— CSDN 博客专家
 * [张兴业](http://blog.csdn.net/xyz_lmn) —— CSDN 博客专家
 * [Coder-pig](http://blog.csdn.net/coder_pig) —— CSDN 博客专家，最佳入门专栏
+* [App开发者](http://www.aswifter.com/) —— 分享Android/IOS/Swift开发和互联网内容
+* [泡在网上的日子](http://www.jcodecraeer.com/) —— 一个有关安卓开发、iOS开发的网站,分享知识与技术
+* [Keegan小刚](http://keeganlee.me/) —— 分享了多篇Android样式的文章
+* [郑海波](http://blog.csdn.net/NUPTboyZHB/) —— CSDN博主，文章大多与自定义控件相关
+* [Trinea](http://www.trinea.cn/) —— 源码解析、性能优化、开源代码
 
 ## 二、官方学习网站
 
