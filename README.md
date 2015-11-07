@@ -38,6 +38,7 @@ Android学习资源网站大全
 ## 二、官方学习网站
 
 * [Android Developer](http://developer.android.com/)
+* [Android Developer(无需梯子)](http://androiddoc.qiniudn.com/index.html)
 * [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
@@ -56,4 +57,12 @@ Android学习资源网站大全
 * [eoe论坛](http://www.eoeandroid.com/) —— android开发论坛
 * [App开发者](http://www.aswifter.com/) —— 分享Android/IOS/Swift开发和互联网内容
 * [泡在网上的日子](http://www.jcodecraeer.com/) —— 一个有关安卓开发、iOS开发的网站,分享知识与技术
-* [AndroidDev](http://www.androiddevtools.cn/) —— android各种资源，我不信你不知道
+* [JavaApk.com](http://www.javaapk.com/) —— 安卓demo聚集地，部分源码需购买VIP
+* [DevStore](http://www.devstore.cn/code/list/ft85-pn1-or0.html) —— 各种Demo，以及第三方服务
+
+
+## 四、开发工具集
+
+* [AndroidDev](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
+* [2702款 开发工具开源软件](http://www.oschina.net/project/tag/11/devtools) —— 如题
+
