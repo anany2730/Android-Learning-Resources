@@ -66,7 +66,7 @@ Android学习资源网站大全
 
 ## 五、经典面试题汇总
 
-*[很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
+* [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 
 ## 六、视频学习网站
 
