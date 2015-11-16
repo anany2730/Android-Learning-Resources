@@ -64,8 +64,11 @@ Android学习资源网站大全
 * [2702款 开发工具开源软件](http://www.oschina.net/project/tag/11/devtools) —— 如题
 * [Android资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
 
+## 五、经典面试题汇总
 
-## 五、视频学习网站
+*[很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
+
+## 六、视频学习网站
 
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
