@@ -33,7 +33,8 @@ Android学习资源网站大全
 * [Coder-pig](http://blog.csdn.net/coder_pig) —— CSDN 博客专家，最佳入门专栏
 * [Keegan小刚](http://keeganlee.me/) —— 分享了多篇Android样式的文章
 * [郑海波](http://blog.csdn.net/NUPTboyZHB/) —— CSDN博主，文章大多与自定义控件相关
-* [吴小龙同学](http://wuxiaolong.me) —— 个人开发者
+* [吴小龙同学](http://wuxiaolong.me/) —— 分享了多篇关于AndroidDesignSupportLibrary的文章
+
 
 ## 二、官方学习网站/Wiki
 
