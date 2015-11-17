@@ -33,36 +33,41 @@ Android学习资源网站大全
 * [Coder-pig](http://blog.csdn.net/coder_pig) —— CSDN 博客专家，最佳入门专栏
 * [Keegan小刚](http://keeganlee.me/) —— 分享了多篇Android样式的文章
 * [郑海波](http://blog.csdn.net/NUPTboyZHB/) —— CSDN博主，文章大多与自定义控件相关
+* [吴小龙同学](http://wuxiaolong.me) —— 个人开发者
 
-## 二、官方学习网站
+## 二、官方学习网站/Wiki
 
 * [Android Developer](http://developer.android.com/)
 * [Android Developer(无需梯子)](http://androiddoc.qiniudn.com/index.html)
 * [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
+* [极客学院 Wiki](http://wiki.jikexueyuan.com/)
 
-## 三、著名论坛及社区
+## 三、高质量Android社区
 
+* [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
+* [V2ex](https://www.v2ex.com/go/android) —— V2ex Android板块
+* [Android 开发技术周报](http://www.androidweekly.cn) —— 长期更新最新前言资讯
+* [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
 * [泡在网上的日子](http://www.jcodecraeer.com/) —— 大量第三方控件基地
 * [开源中国](http://www.oschina.net/android) —— OsChina
 * [23code](http://www.23code.com/) —— android经典开源代码分享
-* [安卓巴士](http://www.apkbus.com/) —— android开发论坛，应有尽有
-* [eoe论坛](http://www.eoeandroid.com/) —— android开发论坛
 * [App开发者](http://www.aswifter.com/) —— 分享Android/IOS/Swift开发和互联网内容
-* [AndroidDev](http://www.androiddevtools.cn/) —— android各种资源，我不信你不知道
 * [JavaApk.com](http://www.javaapk.com/) —— 安卓demo聚集地，部分源码需购买VIP
 * [DevStore](http://www.devstore.cn/code/list/ft85-pn1-or0.html) —— 各种Demo，以及第三方服务
-* [值得阅读的android技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) —— 如题
-* [整理一些比较好的Android开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
 
 
 ## 四、开发工具，第三方开源项目(控件/框架)集
 
-* [AndroidDev](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
+* [Android Dev](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
 * [2702款 开发工具开源软件](http://www.oschina.net/project/tag/11/devtools) —— 如题
 * [Android资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
+
+## 五、值得Android开发者阅读系列
+* [值得阅读的android技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) —— 如题
+* [整理一些比较好的Android开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
 
 ## 五、经典面试题汇总
 
