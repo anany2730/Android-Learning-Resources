@@ -45,7 +45,15 @@ Android学习资源网站大全
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
 * [极客学院 Wiki](http://wiki.jikexueyuan.com/)
 
-## 三、高质量Android社区
+## 三、值得Android开发者阅读系列
+
+* [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/) —— stormzhang的Android学习之路
+* [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
+* [值得阅读的android技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) —— 如题
+* [整理一些比较好的Android开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
+* [Android应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
+
+## 四、高质量Android社区
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
 * [V2ex](https://www.v2ex.com/go/android) —— V2ex Android板块
@@ -59,26 +67,20 @@ Android学习资源网站大全
 * [DevStore](http://www.devstore.cn/code/list/ft85-pn1-or0.html) —— 各种Demo，以及第三方服务
 
 
-## 四、开发工具，第三方开源项目(控件/框架)集
+## 五、开发工具，第三方开源项目(控件/框架)集
 
 * [Android Dev](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
 * [2702款 开发工具开源软件](http://www.oschina.net/project/tag/11/devtools) —— 如题
 * [Android资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
 
-## 五、值得Android开发者阅读系列
 
-* [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
-* [值得阅读的android技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) —— 如题
-* [整理一些比较好的Android开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
-* [Android应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
-
-## 五、经典面试题汇总
+## 六、经典面试题汇总
 
 * [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
 
-## 六、视频学习网站
+## 七、视频学习网站
 
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
