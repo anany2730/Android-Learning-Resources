@@ -73,7 +73,7 @@ Android学习资源网站大全
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
 * [2702款 开发工具开源软件](http://www.oschina.net/project/tag/11/devtools) —— 如题
 * [Android资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
-
+* [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG)
 
 ## 六、经典面试题汇总
 
