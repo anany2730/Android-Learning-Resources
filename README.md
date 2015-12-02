@@ -34,7 +34,8 @@ Android学习资源网站大全
 * [Keegan小刚](http://keeganlee.me/) —— 分享了多篇Android样式的文章
 * [郑海波](http://blog.csdn.net/NUPTboyZHB/) —— CSDN博主，文章大多与自定义控件相关
 * [吴小龙同学](http://wuxiaolong.me/) —— 分享了多篇关于AndroidDesignSupportLibrary的文章
-* [全速前行](http://blog.csdn.net/lincyang) —— CSDN 博客专家，主讲实战技巧和平常遇到的问题
+* [全速前行](http://blog.csdn.net/lincyang) —— 主讲实战技巧和平常遇到的问题
+* [ASCE 1985](http://blog.csdn.net/asce1885) —— 翻译了多篇使用Kotlin开发Android应用，平安科技移动开发二队技术周报作者
 
 ## 二、官方学习网站/Wiki
 
@@ -73,7 +74,7 @@ Android学习资源网站大全
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
 * [2702款 开发工具开源软件](http://www.oschina.net/project/tag/11/devtools) —— 如题
 * [Android资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
-* [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG)
+* [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG) —— 各种UI图标库、工具集
 
 ## 六、经典面试题汇总
 
