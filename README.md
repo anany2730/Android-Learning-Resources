@@ -56,6 +56,12 @@ Android学习资源网站大全
 * [Android应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
 * [Android界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
 
+## 四、RxJava相关学习资料
+
+* [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
+* [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— 大头鬼出品深入浅出rxjava
+* [RxJava和MVP开发的相册demo](https://github.com/crosswall/Android-PickPhotos)
+
 ## 四、高质量Android社区
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
