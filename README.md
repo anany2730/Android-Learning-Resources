@@ -60,11 +60,13 @@ Android学习资源网站大全
 
 * [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— 大头鬼出品深入浅出rxjava
-* [RxJava和MVP开发的相册demo](https://github.com/crosswall/Android-PickPhotos)
+* [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
+* [RxJava和MVP开发的相册 demo](https://github.com/crosswall/Android-PickPhotos)
 * [RxJava+MVP天气预报项目](https://github.com/SmartDengg/RxWeather)
-* [RxJava+Dagger2+LAMBDA的一个MVPdemo](https://github.com/richardradics/RxAndroidBootstrap)
+* [RxJava+Dagger2+LAMBDA的一个MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
 
-## 四、高质量Android社区
+
+## 五、高质量Android社区
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
 * [V2ex](https://www.v2ex.com/go/android) —— V2ex Android板块
@@ -78,7 +80,7 @@ Android学习资源网站大全
 * [DevStore](http://www.devstore.cn/code/list/ft85-pn1-or0.html) —— 各种Demo，以及第三方服务
 
 
-## 五、开发工具，第三方开源项目(控件/框架)集
+## 六、开发工具，第三方开源项目(控件/框架)集
 
 * [Android Dev](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
@@ -86,12 +88,12 @@ Android学习资源网站大全
 * [Android资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
 * [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG) —— 各种UI图标库、工具集
 
-## 六、经典面试题汇总
+## 七、经典面试题汇总
 
 * [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
 
-## 七、视频学习网站
+## 八、视频学习网站
 
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
