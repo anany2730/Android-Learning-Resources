@@ -61,7 +61,7 @@ Android学习资源网站大全
 
 * [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— 大头鬼出品深入浅出rxjava
-* [关于rxjava的demo](https://github.com/kaushikgopal/RxJava-Android-Samples) —— rxjava的相关使用，并使用rxjava实现了一个bus
+* [关于rxjava的demo](https://github.com/kaushikgopal/RxJava-Android-Samples) —— 展示了rxjava的相关使用方式，并通过rxjava实现了一个event bus
 * [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
 * [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
 * [RxJava和MVP开发的相册demo](https://github.com/crosswall/Android-PickPhotos)
