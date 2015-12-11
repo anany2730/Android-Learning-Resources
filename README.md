@@ -61,6 +61,8 @@ Android学习资源网站大全
 * [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— 大头鬼出品深入浅出rxjava
 * [RxJava和MVP开发的相册demo](https://github.com/crosswall/Android-PickPhotos)
+* [RxJava+MVP天气预报项目](https://github.com/SmartDengg/RxWeather)
+* [RxJava+Dagger2+LAMBDA的一个MVPdemo](https://github.com/richardradics/RxAndroidBootstrap)
 
 ## 四、高质量Android社区
 
