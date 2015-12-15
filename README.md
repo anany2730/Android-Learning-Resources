@@ -38,6 +38,7 @@ Android学习资源网站大全
 * [全速前行](http://blog.csdn.net/lincyang) —— 主讲实战技巧和平常遇到的问题
 * [ASCE 1985](http://blog.csdn.net/asce1885) —— 翻译了多篇使用Kotlin开发Android应用，平安科技移动开发二队技术周报作者
 * [mcxiaoke](http://blog.mcxiaoke.com) —— rxjava文档，EventBus博客，多渠道打包，一些开源项目
+* [WPJY](http://blog.csdn.net/wangjinyu501?viewmode=contents) —— 自定义View、开发经验
 
 ## 二、官方学习网站/Wiki
 
