@@ -81,7 +81,7 @@ Android学习资源网站大全
 * [App开发者](http://www.aswifter.com/) —— 分享Android/IOS/Swift开发和互联网内容
 * [JavaApk.com](http://www.javaapk.com/) —— 安卓demo聚集地，部分源码需购买VIP
 * [DevStore](http://www.devstore.cn/code/list/ft85-pn1-or0.html) —— 各种Demo，以及第三方服务
-
+* [第七城市](http://123.th7.cn/code/MagicPie_1678.html) -- android/ios代码实例分享平台
 
 ## 六、开发工具，第三方开源项目(控件/框架)集
 
