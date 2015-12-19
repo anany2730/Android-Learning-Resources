@@ -48,6 +48,7 @@ Android学习资源网站大全
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
 * [极客学院 Wiki](http://wiki.jikexueyuan.com/)
+* [Android Developers blog](http://android-developers.blogspot.jp/)
 
 ## 三、值得Android开发者阅读系列
 
