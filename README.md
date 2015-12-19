@@ -39,6 +39,7 @@ Android学习资源网站大全
 * [ASCE 1985](http://blog.csdn.net/asce1885) —— 翻译了多篇使用Kotlin开发Android应用，平安科技移动开发二队技术周报作者
 * [mcxiaoke](http://blog.mcxiaoke.com) —— rxjava文档，EventBus博客，多渠道打包，一些开源项目
 * [WPJY](http://blog.csdn.net/wangjinyu501?viewmode=contents) —— 自定义View、开发经验
+* [Android Developers blog](http://android-developers.blogspot.jp/) —— google's Android 博客
 
 ## 二、官方学习网站/Wiki
 
@@ -48,7 +49,7 @@ Android学习资源网站大全
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
 * [极客学院 Wiki](http://wiki.jikexueyuan.com/)
-* [Android Developers blog](http://android-developers.blogspot.jp/)
+
 
 ## 三、值得Android开发者阅读系列
 
