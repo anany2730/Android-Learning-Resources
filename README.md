@@ -20,6 +20,7 @@ Android学习资源网站大全
 * [代码家](http://blog.daimajia.com/) —— 著名博主
 * [张涛](http://kymjs.com) —— KjFrame 作者
 * [脉脉不得语](http://www.inferjay.com/blog/categories/androiddevweekly/) —— 著名博主
+* [wangkuiwu](http://wangkuiwu.github.io) —— Binder、事件分发、动画解析
 * [高建武](http://www.jianshu.com/users/FK4sc4/latest_articles) —— 专注性能优化，简书著名博主
 * [程序亦非猿](http://yifeiyuan.me)—— 简书著名博主
 * [廖祜秋liaohuqiu_秋百万](http://liaohuqiu.net) —— 淘宝职员
