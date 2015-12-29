@@ -41,6 +41,7 @@ Android学习资源网站大全
 * [mcxiaoke](http://blog.mcxiaoke.com) —— rxjava文档，EventBus博客，多渠道打包，一些开源项目
 * [WPJY](http://blog.csdn.net/wangjinyu501?viewmode=contents) —— 自定义View、开发经验
 * [Android Developers blog](http://android-developers.blogspot.jp/) —— google's Android 博客
+* [江清清的专栏](http://blog.csdn.net/developer_jiangqq) —— 	大量实例讲解
 
 ## 二、官方学习网站/Wiki
 
