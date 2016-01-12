@@ -72,6 +72,7 @@ Android学习资源网站大全
 * [RxJava和MVP开发的相册demo](https://github.com/crosswall/Android-PickPhotos)
 * [RxJava+MVP天气预报项目](https://github.com/SmartDengg/RxWeather)
 * [RxJava+Dagger2+LAMBDA的一个MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
+* [RxJava的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## 五、高质量Android社区
 
