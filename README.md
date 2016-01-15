@@ -107,3 +107,4 @@ Android学习资源网站大全
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
 * [麦子学院](http://www.maiziedu.com/)
+* [Udacity Google 官方视频教程](https://www.udacity.com/courses/android)
