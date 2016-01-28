@@ -42,6 +42,7 @@ Android学习资源网站大全
 * [WPJY](http://blog.csdn.net/wangjinyu501?viewmode=contents) —— 自定义View、开发经验
 * [Android Developers blog](http://android-developers.blogspot.jp/) —— google's Android 博客
 * [江清清的专栏](http://blog.csdn.net/developer_jiangqq) —— 	大量实例讲解
+* [hujiaweibujidao](http://hujiaweibujidao.github.io) —— Android笔记
 
 ## 二、官方学习网站/Wiki
 
