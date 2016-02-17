@@ -113,3 +113,9 @@ Android学习资源网站大全
 * [极客学院](http://www.jikexueyuan.com/)
 * [麦子学院](http://www.maiziedu.com/)
 * [Udacity Google 官方视频教程](https://www.udacity.com/courses/android)
+
+## 九、单元测试
+
+* [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
+* [Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
+
