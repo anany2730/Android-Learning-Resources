@@ -70,6 +70,8 @@ Android学习资源网站大全
 * [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
 * [RxJava resources](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
+* [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
+* [RxJava处理网络连接失败](http://www.jianshu.com/p/7e28c8216c7d)
 * [关于rxjava的demo](https://github.com/kaushikgopal/RxJava-Android-Samples) —— 展示了rxjava的相关使用方式，并通过rxjava实现了一个event bus
 * [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
 * [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
