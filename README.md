@@ -84,6 +84,7 @@ Android学习资源网站大全
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
 * [V2ex](https://www.v2ex.com/go/android) —— V2ex Android板块
+* [antoniolevia](http://antonioleiva.com) —— 国外android技术分享网站
 * [Android 开发技术周报](http://www.androidweekly.cn) —— 长期更新最新前言资讯
 * [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
 * [泡在网上的日子](http://www.jcodecraeer.com/) —— 大量第三方控件基地
