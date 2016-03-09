@@ -42,7 +42,8 @@ Android学习资源网站大全
 * [WPJY](http://blog.csdn.net/wangjinyu501?viewmode=contents) —— 自定义View、开发经验
 * [Android Developers blog](http://android-developers.blogspot.jp/) —— google's Android 博客
 * [江清清的专栏](http://blog.csdn.net/developer_jiangqq) —— 	大量实例讲解
-* [hujiaweibujidao](http://hujiaweibujidao.github.io) —— Android笔记
+* [hujiaweibujidao](http://hujiaweibujidao.github.io) —— 《Android开发艺术探索》读书笔记系列
+* [BlackSwift](http://www.jianshu.com/users/b99b0edd4e77/latest_articles) —— 简书作者【Blur实时渲染，AnimeWallpaper】
 
 ## 二、官方学习网站/Wiki
 
