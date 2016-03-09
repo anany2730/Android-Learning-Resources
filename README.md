@@ -60,13 +60,13 @@ Android学习资源网站大全
 * [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
 * [AndroidDifficultAnalysis](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis) —— 安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理
 * [Android wiki 周刊](https://github.com/bboyfeiyu/android-tech-frontier/wiki)
-* [值得阅读的android技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) —— 如题
+* [值得阅读的android技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) 
 * [整理一些比较好的Android开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
 * [Android应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
 * [Android界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
-* [Android Design](http://www.apkbus.com/design/index.html)
 
-## 四、RxJava相关学习资料
+
+## 四、RxJava相关
 
 * [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
@@ -81,7 +81,11 @@ Android学习资源网站大全
 * [RxJava+Dagger2+LAMBDA的一个MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
 * [RxJava的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-## 五、高质量Android社区
+## 五、网络相关
+* [OkHttp3 源码分析](http://www.jianshu.com/p/aad5aacd79bf)
+* [Volley 源码分析](http://blog.csdn.net/nugongahou110/article/details/46829605)
+
+## 六、高质量Android社区
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
 * [V2ex](https://www.v2ex.com/go/android) —— V2ex Android板块
@@ -90,13 +94,9 @@ Android学习资源网站大全
 * [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
 * [泡在网上的日子](http://www.jcodecraeer.com/) —— 大量第三方控件基地
 * [开源中国](http://www.oschina.net/android) —— OsChina
-* [23code](http://www.23code.com/) —— android经典开源代码分享
-* [App开发者](http://www.aswifter.com/) —— 分享Android/IOS/Swift开发和互联网内容
-* [JavaApk.com](http://www.javaapk.com/) —— 安卓demo聚集地，部分源码需购买VIP
-* [DevStore](http://www.devstore.cn/code/list/ft85-pn1-or0.html) —— 各种Demo，以及第三方服务
-* [第七城市](http://123.th7.cn/code/MagicPie_1678.html) -- android/ios代码实例分享平台
 
-## 六、开发工具，第三方开源项目(控件/框架)集
+
+## 七、开发工具，第三方开源项目(控件/框架)集
 
 * [Android Dev](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
@@ -107,19 +107,19 @@ Android学习资源网站大全
 * [icon图标](https://icomoon.io/app/#/select) —— 各种icon图标
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 
-## 七、经典面试题汇总
+## 八、经典面试题汇总
 
 * [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
 
-## 八、视频学习网站
+## 九、视频学习网站
 
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
 * [麦子学院](http://www.maiziedu.com/)
 * [Udacity Google 官方视频教程](https://www.udacity.com/courses/android)
 
-## 九、单元测试
+## 十、单元测试
 
 * [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
 * [Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
