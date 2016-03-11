@@ -85,6 +85,7 @@ Android学习资源网站大全
 ## 五、网络相关
 * [OkHttp3 源码分析](http://www.jianshu.com/p/aad5aacd79bf)
 * [Volley 源码分析](http://blog.csdn.net/nugongahou110/article/details/46829605)
+* [Retrofit 2.0 + OkHttp 3.0 配置](https://drakeet.me/retrofit-2-0-okhttp-3-0-config)
 
 ## 六、高质量Android社区
 
@@ -124,4 +125,3 @@ Android学习资源网站大全
 
 * [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
 * [Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
-
