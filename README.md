@@ -116,6 +116,7 @@ Android学习资源网站大全
 
 ## 九、视频学习网站
 
+* [Google官方性能优化视频](http://chinagdg.org/google-videos/) —— GDG中译版
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
 * [麦子学院](http://www.maiziedu.com/)
