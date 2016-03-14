@@ -113,6 +113,7 @@ Android学习资源网站大全
 
 * [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
+* [Android工程师面试题大全](http://www.jianshu.com/p/1bdf7d0e1ac5)
 
 ## 九、视频学习网站
 
