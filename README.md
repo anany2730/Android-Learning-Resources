@@ -84,9 +84,14 @@ Android学习资源网站大全
 * [RxJava的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## 五、网络相关
+
+* [HTTP必知必会](http://www.cnblogs.com/starstone/p/4890409.html)
 * [OkHttp3 源码分析](http://www.jianshu.com/p/aad5aacd79bf)
 * [Volley 源码分析](http://blog.csdn.net/nugongahou110/article/details/46829605)
 * [Retrofit 2.0 + OkHttp 3.0 配置](https://drakeet.me/retrofit-2-0-okhttp-3-0-config)
+* [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful)
+* [ Retrofit+RxJava实战日志](http://blog.csdn.net/efan006/article/details/50543990)
+* [使用Retrofit和Okhttp实现网络缓存](http://www.jianshu.com/p/9c3b4ea108a7) —— 无网读缓存，有网根据过期时间重新请求
 
 ## 六、高质量Android社区
 
