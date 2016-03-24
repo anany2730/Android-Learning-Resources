@@ -66,6 +66,7 @@ Android学习资源网站大全
 * [Android应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
 * [segmentfault上回答较好的一些问题](https://segmentfault.com/a/1190000004063006)
 * [Android界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
+* [腾讯bugly社区](http://bugly.qq.com/bbs/forum.php?mod=forumdisplay&fid=39) —— 腾讯技术大牛写的博客文章
 
 
 ## 四、RxJava相关
