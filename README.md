@@ -55,7 +55,7 @@ Android学习资源网站大全
 * [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
 
 
-## 三、值得Android开发者阅读系列
+## 三、值得Android开发者阅读系列【推荐必看】
 
 * [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/) —— stormzhang的Android学习之路
 * [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
@@ -67,6 +67,7 @@ Android学习资源网站大全
 * [segmentfault上回答较好的一些问题](https://segmentfault.com/a/1190000004063006)
 * [Android界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
 * [腾讯bugly社区](http://bugly.qq.com/bbs/forum.php?mod=forumdisplay&fid=39) —— 腾讯技术大牛写的博客文章
+* [从零开始的Android新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/) —— 从架构搭建、到数据层之Retrofit与Realm
 
 
 ## 四、RxJava相关
@@ -74,8 +75,8 @@ Android学习资源网站大全
 * [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
 * [RxJava resources](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
+* [RxJava学习总结](http://wangxinghe.me/blog/2016-03-27/rxjava-basis/)
 * [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
-* [RxJava处理网络连接失败](http://www.jianshu.com/p/7e28c8216c7d)
 * [关于rxjava的demo](https://github.com/kaushikgopal/RxJava-Android-Samples) —— 展示了rxjava的相关使用方式，并通过rxjava实现了一个event bus
 * [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
 * [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
@@ -93,6 +94,7 @@ Android学习资源网站大全
 * [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful)
 * [ Retrofit+RxJava实战日志](http://blog.csdn.net/efan006/article/details/50543990)
 * [使用Retrofit和Okhttp实现网络缓存](http://www.jianshu.com/p/9c3b4ea108a7) —— 无网读缓存，有网根据过期时间重新请求
+* [RxJava处理网络连接失败](http://www.jianshu.com/p/7e28c8216c7d)
 
 ## 六、高质量Android社区
 
@@ -116,12 +118,14 @@ Android学习资源网站大全
 * [icon图标](https://icomoon.io/app/#/select) —— 各种icon图标
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 
-## 八、经典面试题汇总
+## 八、面试必看
 
 * [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
 * [Android工程师面试题大全](http://www.jianshu.com/p/1bdf7d0e1ac5)
 * [面试后的总结](http://kymjs.com/code/2016/03/08/01/) —— 张涛KJFrame
+* [快速了解Android重要机制](http://www.jianshu.com/p/5f6d79323923)
+* [Android从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 
 ## 九、视频学习网站
 
