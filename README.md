@@ -97,6 +97,7 @@ Android学习资源网站大全
 * [RxJava处理网络连接失败](http://www.jianshu.com/p/7e28c8216c7d)
 * [Android推送技术研究](http://www.jianshu.com/p/584707554ed7)
 * [OkHttp, Retrofit, Volley应该选择哪一个？](http://www.jianshu.com/p/77d418e7b5d6)
+* [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) —— 来自IBM的技术文章
 
 ## 六、高质量Android社区
 
