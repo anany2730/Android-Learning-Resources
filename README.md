@@ -68,6 +68,7 @@ Android学习资源网站大全
 * [Android界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
 * [腾讯bugly社区](http://bugly.qq.com/bbs/forum.php?mod=forumdisplay&fid=39) —— 腾讯技术大牛写的博客文章
 * [从零开始的Android新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/) —— 从架构搭建、到数据层之Retrofit与Realm
+* [深入理解Activity启动流程](http://www.cloudchou.com/android/post-788.html) 
 
 
 ## 四、RxJava相关
