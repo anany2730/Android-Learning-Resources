@@ -126,6 +126,7 @@ Android学习资源网站大全
 ## 八、面试必看
 
 * [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
+* [Android面霸君](http://mianbajun.sinaapp.com)
 * [android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
 * [Android工程师面试题大全](http://www.jianshu.com/p/1bdf7d0e1ac5)
 * [面试后的总结](http://kymjs.com/code/2016/03/08/01/) —— 张涛KJFrame
