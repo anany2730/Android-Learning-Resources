@@ -100,6 +100,7 @@ Android学习资源网站大全
 * [Android推送技术研究](http://www.jianshu.com/p/584707554ed7)
 * [OkHttp, Retrofit, Volley应该选择哪一个？](http://www.jianshu.com/p/77d418e7b5d6)
 * [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) —— 来自IBM的技术文章
+* [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
 
 ## 六、高质量Android社区
 
