@@ -147,3 +147,4 @@ Android学习资源网站大全
 
 * [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
 * [Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
+* [Android 单元测试: 首先，从是什么开始](http://www.jianshu.com/p/b2717dc245da)
