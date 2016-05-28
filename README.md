@@ -44,6 +44,7 @@ Android学习资源网站大全
 * [江清清的专栏](http://blog.csdn.net/developer_jiangqq) —— 	大量实例讲解
 * [hujiaweibujidao](http://hujiaweibujidao.github.io) —— 《Android开发艺术探索》读书笔记系列
 * [BlackSwift](http://www.jianshu.com/users/b99b0edd4e77/latest_articles) —— 简书作者【Blur实时渲染，AnimeWallpaper】
+* [Android 源码解析专栏](http://blog.csdn.net/qq_23547831?viewmode=contents)
 
 ## 二、官方学习网站/Wiki
 
@@ -101,6 +102,7 @@ Android学习资源网站大全
 * [OkHttp, Retrofit, Volley应该选择哪一个？](http://www.jianshu.com/p/77d418e7b5d6)
 * [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) —— 来自IBM的技术文章
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
+* [Retrofit的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
 
 ## 六、高质量Android社区
 
