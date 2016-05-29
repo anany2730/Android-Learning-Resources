@@ -104,6 +104,11 @@ Android学习资源网站大全
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
 * [Retrofit的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
 
+## 六、MVP架构相关
+
+* [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
+* [Google官方MVP案例todoAPP解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
+
 ## 六、高质量Android社区
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
@@ -123,7 +128,6 @@ Android学习资源网站大全
 * [Android资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
 * [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG) —— 各种UI图标库、工具集
 * [MD调色板](http://www.materialpalette.com)
-* [流行图标字体库](http://fontawesome.io/icons/)
 * [icon图标](https://icomoon.io/app/#/select) —— 各种icon图标
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 
