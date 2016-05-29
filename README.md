@@ -3,7 +3,7 @@ Android学习资源网站大全
 
 整理了一些Android的博客链接、学习资源网站。**站在巨人的肩膀上，会看得更远**。整理这一份资源也方便更多的Android开发者能享受到技术分享的力量。首先，在这里要感谢所有开源项目的作者，感谢Trinea，CodeKK，张明云，胡凯等等大大无私的技术分享，感谢所有乐于分享学习经验的人。最后，若有侵权，请联系本人，本人将及时删除侵权内容。
 
-## 一、值得关注的大牛博客
+## 值得关注的大牛博客
 
 * [CodeKK](http://a.codekk.com/) —— 专注于开源项目源码解析及优秀开源项目的分享
 * [Trinea](http://www.trinea.cn/) —— 性能优化、源码解析
@@ -46,7 +46,7 @@ Android学习资源网站大全
 * [BlackSwift](http://www.jianshu.com/users/b99b0edd4e77/latest_articles) —— 简书作者【Blur实时渲染，AnimeWallpaper】
 * [Android 源码解析专栏](http://blog.csdn.net/qq_23547831?viewmode=contents)
 
-## 二、官方学习网站/Wiki
+## 官方学习网站/Wiki
 
 * [Android Developer](http://developer.android.com/)
 * [Android Developer(无需梯子)](http://androiddoc.qiniudn.com/index.html)
@@ -56,7 +56,7 @@ Android学习资源网站大全
 * [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
 
 
-## 三、值得Android开发者阅读系列【推荐必看】
+## 值得Android开发者阅读系列【推荐必看】
 
 * [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/) —— stormzhang的Android学习之路
 * [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
@@ -73,7 +73,7 @@ Android学习资源网站大全
 * [深入理解Activity启动流程](http://www.cloudchou.com/android/post-788.html) 
 
 
-## 四、RxJava相关
+## RxJava相关
 
 * [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
@@ -88,7 +88,7 @@ Android学习资源网站大全
 * [RxJava+Dagger2+LAMBDA的一个MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
 * [RxJava的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-## 五、网络相关
+## 网络相关
 
 * [HTTP必知必会](http://www.cnblogs.com/starstone/p/4890409.html)
 * [OkHttp3 源码分析](http://www.jianshu.com/p/aad5aacd79bf)
@@ -104,12 +104,13 @@ Android学习资源网站大全
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
 * [Retrofit的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
 
-## 六、MVP架构相关
+## MVP架构相关
 
 * [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
 * [Google官方MVP案例todoAPP解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
 
-## 六、高质量Android社区
+
+## 高质量Android社区
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
 * [V2ex](https://www.v2ex.com/go/android) —— V2ex Android板块
@@ -120,7 +121,7 @@ Android学习资源网站大全
 * [开源中国](http://www.oschina.net/android) —— OsChina
 
 
-## 七、开发工具，第三方开源项目(控件/框架)集
+## 开发工具，第三方开源项目(控件/框架)集
 
 * [Android Dev](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
@@ -131,7 +132,7 @@ Android学习资源网站大全
 * [icon图标](https://icomoon.io/app/#/select) —— 各种icon图标
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 
-## 八、面试必看
+## 面试必看
 
 * [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [Android面霸君](http://mianbajun.sinaapp.com)
@@ -142,7 +143,7 @@ Android学习资源网站大全
 * [Android从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 * [知乎上回答的腾讯面经](https://www.zhihu.com/question/30070178/answer/92849985)
 
-## 九、视频学习网站
+## 视频学习网站
 
 * [Google官方性能优化视频](http://chinagdg.org/google-videos/) —— GDG中译版
 * [慕课网](http://www.imooc.com/)
@@ -150,7 +151,7 @@ Android学习资源网站大全
 * [麦子学院](http://www.maiziedu.com/)
 * [Udacity Google 官方视频教程](https://www.udacity.com/courses/android)
 
-## 十、单元测试
+## 单元测试
 
 * [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
 * [Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
