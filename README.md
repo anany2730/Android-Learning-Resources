@@ -71,6 +71,9 @@ Android学习资源网站大全
 * [腾讯bugly社区](http://bugly.qq.com/bbs/forum.php?mod=forumdisplay&fid=39) —— 腾讯技术大牛写的博客文章
 * [从零开始的Android新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/) —— 从架构搭建、到数据层之Retrofit与Realm
 * [深入理解Activity启动流程](http://www.cloudchou.com/android/post-788.html) 
+* [你需要知道的Android拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
+* [Context都没弄明白，还怎么做Android开发？](http://www.jianshu.com/p/94e0f9ab3f1d)
+* [Android性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
 
 
 ## RxJava相关
