@@ -90,6 +90,7 @@ Android学习资源网站大全
 * [RxJava+MVP天气预报项目](https://github.com/SmartDengg/RxWeather)
 * [RxJava+Dagger2+LAMBDA的一个MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
 * [RxJava的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [使用RxBinding响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
 
 ## 网络相关
 
