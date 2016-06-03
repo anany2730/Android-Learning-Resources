@@ -91,6 +91,7 @@ Android学习资源网站大全
 * [RxJava+Dagger2+LAMBDA的一个MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
 * [RxJava的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [使用RxBinding响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
+* [详细解析RxAndroid的使用方式](http://www.jianshu.com/p/6d1ef9f43cdc)
 
 ## 网络相关
 
