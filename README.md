@@ -120,7 +120,8 @@ Android学习资源网站大全
 * [antoniolevia](http://antonioleiva.com) —— 国外android技术分享网站
 * [Android 开发技术周报](http://www.androidweekly.cn) —— 长期更新最新前言资讯
 * [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
-* [泡在网上的日子](http://www.jcodecraeer.com/) —— 大量第三方控件基地
+* [干货集中营](http://gank.io) —— 每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频
+* [掘金Android](http://gold.xitu.io/explore/android)
 * [开源中国](http://www.oschina.net/android) —— OsChina
 
 
