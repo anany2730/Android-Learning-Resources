@@ -17,21 +17,11 @@ Android学习资源网站大全
 * [张明云](http://www.jianshu.com/users/e6885381f7d4/latest_articles) —— Android学习之路
 * [Drakeet](http://drakeet.me) —— 贝壳单词APP开发者
 * [徐宜生](http://blog.csdn.net/eclipsexys) —— 《Android群英传》作者
-* [代码家](http://blog.daimajia.com/) —— 著名博主
 * [张涛](http://kymjs.com) —— KjFrame 作者
 * [脉脉不得语](http://www.inferjay.com/blog/categories/androiddevweekly/) —— 著名博主
 * [wangkuiwu](http://wangkuiwu.github.io) —— Binder、事件分发、动画解析
 * [高建武](http://www.jianshu.com/users/FK4sc4/latest_articles) —— 专注性能优化，简书著名博主
-* [程序亦非猿](http://yifeiyuan.me)—— 简书著名博主
-* [廖祜秋liaohuqiu_秋百万](http://liaohuqiu.net) —— 淘宝职员
 * [hi大头鬼hi](http://blog.csdn.net/lzyzsd) —— 对RxJava有较深的研究
-* [阳春面](http://www.jianshu.com/users/nqobaq/latest_articles) —— 简书著名博主
-* [夏安明](http://blog.csdn.net/xiaanming) —— CSDN 博客专家
-* [兰亭风雨](http://blog.csdn.net/ns_code) —— CSDN 博客专家
-* [赵凯强](http://blog.csdn.net/zhaokaiqiang1992) —— CSDN 博客专家
-* [qinjuning](http://blog.csdn.net/qinjuning) —— CSDN 博客专家
-* [工匠若水](http://blog.csdn.net/yanbober) —— CSDN 博客专家
-* [张兴业](http://blog.csdn.net/xyz_lmn) —— CSDN 博客专家
 * [Coder-pig](http://blog.csdn.net/coder_pig) —— CSDN 博客专家，最佳入门专栏
 * [Keegan小刚](http://keeganlee.me/) —— 分享了多篇Android样式的文章
 * [郑海波](http://blog.csdn.net/NUPTboyZHB/) —— CSDN博主，文章大多与自定义控件相关
@@ -40,7 +30,7 @@ Android学习资源网站大全
 * [ASCE 1985](http://blog.csdn.net/asce1885) —— 翻译了多篇使用Kotlin开发Android应用，平安科技移动开发二队技术周报作者
 * [mcxiaoke](http://blog.mcxiaoke.com) —— rxjava文档，EventBus博客，多渠道打包，一些开源项目
 * [WPJY](http://blog.csdn.net/wangjinyu501?viewmode=contents) —— 自定义View、开发经验
-* [Android Developers blog](http://android-developers.blogspot.jp/) —— google's Android 博客
+* [Android Developers blog](http://android-developers.blogspot.jp/) —— Google's Android 博客
 * [江清清的专栏](http://blog.csdn.net/developer_jiangqq) —— 	大量实例讲解
 * [hujiaweibujidao](http://hujiaweibujidao.github.io) —— 《Android开发艺术探索》读书笔记系列
 * [BlackSwift](http://www.jianshu.com/users/b99b0edd4e77/latest_articles) —— 简书作者【Blur实时渲染，AnimeWallpaper】
@@ -86,9 +76,6 @@ Android学习资源网站大全
 * [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
 * [关于rxjava的demo](https://github.com/kaushikgopal/RxJava-Android-Samples) —— 展示了rxjava的相关使用方式，并通过rxjava实现了一个event bus
 * [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
-* [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
-* [RxJava和MVP开发的相册demo](https://github.com/crosswall/Android-PickPhotos)
-* [RxJava+MVP天气预报项目](https://github.com/SmartDengg/RxWeather)
 * [RxJava+Dagger2+LAMBDA的一个MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
 * [RxJava的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [使用RxBinding响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
@@ -137,6 +124,7 @@ Android学习资源网站大全
 * [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG) —— 各种UI图标库、工具集
 * [MD调色板](http://www.materialpalette.com)
 * [icon图标](https://icomoon.io/app/#/select) —— 各种icon图标
+* [图标下载库](http://www.flaticon.com) —— 160,428 vector icons grouped in 2,409 packs
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 
 ## 面试必看
