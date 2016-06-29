@@ -1,7 +1,7 @@
 Android学习资源网站大全
 =====================
 
-整理了一些Android的博客链接、学习资源网站。**站在巨人的肩膀上，会看得更远**。整理这一份资源也方便更多的Android开发者能享受到技术分享的力量。首先，在这里要感谢所有开源项目的作者，感谢Trinea，CodeKK，张明云，胡凯等等大大无私的技术分享，感谢所有乐于分享学习经验的人。最后，若有侵权，请联系本人，本人将及时删除侵权内容。
+整理了一些 Android 的博客链接、学习资源网站。**站在巨人的肩膀上，会看得更远**。整理这一份资源也方便更多的Android开发者能享受到技术分享的力量。首先，在这里要感谢所有开源项目的作者，感谢Trinea，CodeKK，张明云，胡凯等等大大无私的技术分享，感谢所有乐于分享学习经验的人。最后，若有侵权，请联系本人，本人将及时删除侵权内容。
 
 ## 值得关注的大牛博客
 
@@ -36,10 +36,10 @@ Android学习资源网站大全
 * [BlackSwift](http://www.jianshu.com/users/b99b0edd4e77/latest_articles) —— 简书作者【Blur实时渲染，AnimeWallpaper】
 * [Android 源码解析专栏](http://blog.csdn.net/qq_23547831?viewmode=contents)
 
-## 官方学习网站/Wiki
+## 官方学习网站 / Wiki
 
 * [Android Developer](http://developer.android.com/)
-* [Android Developer(无需梯子)](http://androiddoc.qiniudn.com/index.html)
+* [Android Developer (无需梯子)](http://androiddoc.qiniudn.com/index.html)
 * [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
@@ -47,71 +47,71 @@ Android学习资源网站大全
 * [Gradle Android Plugin 中文版》](https://chaosleong.gitbooks.io/gradle-for-android/content/)
 * [Google samples](https://github.com/googlesamples) —— 看优秀代码是最好的学习方式
 
-## 值得Android开发者阅读系列【推荐必看】
+## 值得 Android 开发者阅读系列【推荐必看】
 
-* [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/) —— stormzhang的Android学习之路
+* [Android 学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/) —— stormzhang的Android学习之路
 * [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
 * [AndroidDifficultAnalysis](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis) —— 安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理
-* [Android知识整理GitBook](https://will_he.gitbooks.io/android/content/)
+* [Android 知识整理 GitBook](https://will_he.gitbooks.io/android/content/)
 * [Android wiki 周刊](https://github.com/bboyfeiyu/android-tech-frontier/wiki)
-* [值得阅读的android技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) 
-* [整理一些比较好的Android开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
-* [Android应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
-* [segmentfault上回答较好的一些问题](https://segmentfault.com/a/1190000004063006)
-* [Android界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
-* [腾讯bugly社区](http://bugly.qq.com/bbs/forum.php?mod=forumdisplay&fid=39) —— 腾讯技术大牛写的博客文章
-* [从零开始的Android新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/) —— 从架构搭建、到数据层之Retrofit与Realm
-* [深入理解Activity启动流程](http://www.cloudchou.com/android/post-788.html) 
-* [你需要知道的Android拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
-* [Context都没弄明白，还怎么做Android开发？](http://www.jianshu.com/p/94e0f9ab3f1d)
-* [Android性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
+* [值得阅读的 Android 技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) 
+* [整理一些比较好的 Android 开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
+* [Android 应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
+* [Segmentfault 上回答较好的一些问题](https://segmentfault.com/a/1190000004063006)
+* [Android 界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
+* [腾讯 bugly 社区](http://bugly.qq.com/bbs/forum.php?mod=forumdisplay&fid=39) —— 腾讯技术大牛写的博客文章
+* [从零开始的 Android 新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/) —— 从架构搭建、到数据层之Retrofit与Realm
+* [深入理解 Activity 启动流程](http://www.cloudchou.com/android/post-788.html) 
+* [你需要知道的 Android 拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
+* [Context 都没弄明白，还怎么做 Android 开发？](http://www.jianshu.com/p/94e0f9ab3f1d)
+* [Android 性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
 
 
 ## RxJava相关
 
-* [Rxjava详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
-* [深入浅出Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
+* [Rxjava 详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
+* [深入浅出 Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
 * [RxJava resources](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
-* [RxJava学习总结](http://wangxinghe.me/blog/2016-03-27/rxjava-basis/)
+* [RxJava 学习总结](http://wangxinghe.me/blog/2016-03-27/rxjava-basis/)
 * [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
-* [关于rxjava的demo](https://github.com/kaushikgopal/RxJava-Android-Samples) —— 展示了rxjava的相关使用方式，并通过rxjava实现了一个event bus
-* [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
-* [RxJava+Dagger2+LAMBDA的一个MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
-* [RxJava的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [使用RxBinding响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
-* [详细解析RxAndroid的使用方式](http://www.jianshu.com/p/6d1ef9f43cdc)
+* [ReactiveX 文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
+* [RxJava + Dagger2 + LAMBDA 的一个 MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
+* [RxJava 的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [使用 RxBinding 响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
+* [详细解析 RxAndroid 的使用方式](http://www.jianshu.com/p/6d1ef9f43cdc)
 
 ## 网络相关
 
-* [HTTP必知必会](http://www.cnblogs.com/starstone/p/4890409.html)
+* [HTTP 必知必会](http://www.cnblogs.com/starstone/p/4890409.html)
+* [Retrofit 2 用法解析](https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/)
 * [OkHttp3 源码分析](http://www.jianshu.com/p/aad5aacd79bf)
 * [Volley 源码分析](http://blog.csdn.net/nugongahou110/article/details/46829605)
 * [Retrofit 2.0 + OkHttp 3.0 配置](https://drakeet.me/retrofit-2-0-okhttp-3-0-config)
-* [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful)
-* [ Retrofit+RxJava实战日志](http://blog.csdn.net/efan006/article/details/50543990)
-* [使用Retrofit和Okhttp实现网络缓存](http://www.jianshu.com/p/9c3b4ea108a7) —— 无网读缓存，有网根据过期时间重新请求
-* [RxJava处理网络连接失败](http://www.jianshu.com/p/7e28c8216c7d)
-* [Android推送技术研究](http://www.jianshu.com/p/584707554ed7)
-* [OkHttp, Retrofit, Volley应该选择哪一个？](http://www.jianshu.com/p/77d418e7b5d6)
+* [理解 RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful)
+* [Retrofit + RxJava实战日志](http://blog.csdn.net/efan006/article/details/50543990)
+* [使用 Retrofit 和 Okhttp 实现网络缓存](http://www.jianshu.com/p/9c3b4ea108a7) —— 无网读缓存，有网根据过期时间重新请求
+* [RxJava 处理网络连接失败](http://www.jianshu.com/p/7e28c8216c7d)
+* [Android 推送技术研究](http://www.jianshu.com/p/584707554ed7)
+* [OkHttp, Retrofit, Volley 应该选择哪一个？](http://www.jianshu.com/p/77d418e7b5d6)
 * [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) —— 来自IBM的技术文章
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
-* [Retrofit的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
+* [Retrofit 的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
 
 ## MVP / MVVM 架构相关
 
-* [不容错过，最全的Android架构合集](http://www.jianshu.com/p/1f21e1d375aa)
+* [不容错过，最全的 Android 架构合集](http://www.jianshu.com/p/1f21e1d375aa)
 * [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
-* [Google官方MVP案例todoAPP解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
-* [Android MVVM框架](http://www.jianshu.com/p/6872b699879d)
-* [Google官方MVP+Dagger2架构详解](http://www.jianshu.com/p/01d3c014b0b1)
+* [Google官方 MVP 案例 todoAPP 解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
+* [Android MVVM 框架](http://www.jianshu.com/p/6872b699879d)
+* [Google官方 MVP + Dagger2 架构详解](http://www.jianshu.com/p/01d3c014b0b1)
 
 ## 单元测试
 
 * [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
-* [Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
+* [Robolectric3.0 介绍](http://www.jianshu.com/p/9d988a2f8ff7)
 * [Android 单元测试: 首先，从是什么开始](http://www.jianshu.com/p/b2717dc245da)
-* [在Android中同时使用unit test和instrument test作为单元测试](http://www.jianshu.com/p/4b03123b4f81)
-* [Android单元测试——辅助工具介绍](http://www.jianshu.com/p/fa76b126a7e7)
+* [在 Android 中同时使用 unit test 和 instrument test 作为单元测试](http://www.jianshu.com/p/4b03123b4f81)
+* [Android 单元测试——辅助工具介绍](http://www.jianshu.com/p/fa76b126a7e7)
 * [Android 单元测试实践](http://www.jianshu.com/p/00ab03f3d394)
 
 ## 高质量Android社区
@@ -122,7 +122,7 @@ Android学习资源网站大全
 * [Android 开发技术周报](http://www.androidweekly.cn) —— 长期更新最新前言资讯
 * [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
 * [干货集中营](http://gank.io) —— 每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频
-* [掘金Android](http://gold.xitu.io/explore/android)
+* [掘金 Android](http://gold.xitu.io/explore/android)
 * [开源中国](http://www.oschina.net/android) —— OsChina
 
 
@@ -131,27 +131,27 @@ Android学习资源网站大全
 * [Android Dev](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
 * [2702款 开发工具开源软件](http://www.oschina.net/project/tag/11/devtools) —— 如题
-* [Android资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
+* [Android 资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
 * [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG) —— 各种UI图标库、工具集
-* [MD调色板](http://www.materialpalette.com)
-* [icon图标](https://icomoon.io/app/#/select) —— 各种icon图标
+* [MD 调色板](http://www.materialpalette.com)
+* [icon 图标](https://icomoon.io/app/#/select) —— 各种icon图标
 * [图标下载库](http://www.flaticon.com) —— 160,428 vector icons grouped in 2,409 packs
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 
 ## 面试必看
 
-* [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
-* [Android面霸君](http://mianbajun.sinaapp.com)
+* [很详细的 Android 工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
+* [Android 面霸君](http://mianbajun.sinaapp.com)
 * [android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
-* [Android工程师面试题大全](http://www.jianshu.com/p/1bdf7d0e1ac5)
+* [Android 工程师面试题大全](http://www.jianshu.com/p/1bdf7d0e1ac5)
 * [面试后的总结](http://kymjs.com/code/2016/03/08/01/) —— 张涛KJFrame
-* [快速了解Android重要机制](http://www.jianshu.com/p/5f6d79323923)
-* [Android从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
+* [快速了解 Android 重要机制](http://www.jianshu.com/p/5f6d79323923)
+* [Android 从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 * [知乎上回答的腾讯面经](https://www.zhihu.com/question/30070178/answer/92849985)
 
 ## 视频学习网站
 
-* [Google官方性能优化视频](http://chinagdg.org/google-videos/) —— GDG中译版
+* [Google 官方性能优化视频](http://chinagdg.org/google-videos/) —— GDG中译版
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
 * [麦子学院](http://www.maiziedu.com/)
