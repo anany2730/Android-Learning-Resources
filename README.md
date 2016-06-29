@@ -67,7 +67,7 @@ Android学习资源网站大全
 * [Android 性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
 
 
-## RxJava相关
+## RxJava 相关
 
 * [Rxjava 详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出 Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
@@ -113,18 +113,18 @@ Android学习资源网站大全
 * [在 Android 中同时使用 unit test 和 instrument test 作为单元测试](http://www.jianshu.com/p/4b03123b4f81)
 * [Android 单元测试——辅助工具介绍](http://www.jianshu.com/p/fa76b126a7e7)
 * [Android 单元测试实践](http://www.jianshu.com/p/00ab03f3d394)
+* [解读 Android 官方 MVP 项目单元测试](http://www.jianshu.com/p/cf446be43ae8)
+* [美团 Android 单元测试研究与实践](http://tech.meituan.com/Android_unit_test.html)
 
-## 高质量Android社区
+## 高质量 Android 社区
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
-* [V2ex](https://www.v2ex.com/go/android) —— V2ex Android板块
 * [antoniolevia](http://antonioleiva.com) —— 国外android技术分享网站
 * [Android 开发技术周报](http://www.androidweekly.cn) —— 长期更新最新前言资讯
 * [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
 * [干货集中营](http://gank.io) —— 每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频
 * [掘金 Android](http://gold.xitu.io/explore/android)
-* [开源中国](http://www.oschina.net/android) —— OsChina
-
+* [V2ex](https://www.v2ex.com/go/android)
 
 ## 开发工具，第三方开源项目(控件/框架)集
 
@@ -142,7 +142,7 @@ Android学习资源网站大全
 
 * [很详细的 Android 工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [Android 面霸君](http://mianbajun.sinaapp.com)
-* [android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
+* [Android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
 * [Android 工程师面试题大全](http://www.jianshu.com/p/1bdf7d0e1ac5)
 * [面试后的总结](http://kymjs.com/code/2016/03/08/01/) —— 张涛KJFrame
 * [快速了解 Android 重要机制](http://www.jianshu.com/p/5f6d79323923)
