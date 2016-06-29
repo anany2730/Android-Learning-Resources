@@ -45,8 +45,7 @@ Android学习资源网站大全
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
 * [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
 * [Gradle Android Plugin 中文版》](https://chaosleong.gitbooks.io/gradle-for-android/content/)
-* [googlesamples](https://github.com/googlesamples) —— 看优秀代码是最好的学习方式
-
+* [Google samples](https://github.com/googlesamples) —— 看优秀代码是最好的学习方式
 
 ## 值得Android开发者阅读系列【推荐必看】
 
@@ -98,11 +97,22 @@ Android学习资源网站大全
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
 * [Retrofit的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
 
-## MVP架构相关
+## MVP / MVVM 架构相关
 
+* [不容错过，最全的Android架构合集](http://www.jianshu.com/p/1f21e1d375aa)
 * [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
 * [Google官方MVP案例todoAPP解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
+* [Android MVVM框架](http://www.jianshu.com/p/6872b699879d)
+* [Google官方MVP+Dagger2架构详解](http://www.jianshu.com/p/01d3c014b0b1)
 
+## 单元测试
+
+* [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
+* [Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
+* [Android 单元测试: 首先，从是什么开始](http://www.jianshu.com/p/b2717dc245da)
+* [在Android中同时使用unit test和instrument test作为单元测试](http://www.jianshu.com/p/4b03123b4f81)
+* [Android单元测试——辅助工具介绍](http://www.jianshu.com/p/fa76b126a7e7)
+* [Android 单元测试实践](http://www.jianshu.com/p/00ab03f3d394)
 
 ## 高质量Android社区
 
@@ -146,9 +156,3 @@ Android学习资源网站大全
 * [极客学院](http://www.jikexueyuan.com/)
 * [麦子学院](http://www.maiziedu.com/)
 * [Udacity Google 官方视频教程](https://www.udacity.com/courses/android)
-
-## 单元测试
-
-* [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
-* [Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
-* [Android 单元测试: 首先，从是什么开始](http://www.jianshu.com/p/b2717dc245da)
