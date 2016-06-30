@@ -96,6 +96,7 @@ Android学习资源网站大全
 * [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) —— 来自IBM的技术文章
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
 * [Retrofit 的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
+* [Android Retrofit 2.0 使用-补充篇](http://www.jianshu.com/p/93153b34310e)
 
 ## MVP / MVVM 架构相关
 
@@ -103,6 +104,7 @@ Android学习资源网站大全
 * [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
 * [Google官方 MVP 案例 todoAPP 解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
 * [Android MVVM 框架](http://www.jianshu.com/p/6872b699879d)
+* [Dagger2 详解](http://www.jianshu.com/p/269c3f70ec1e)
 * [Google官方 MVP + Dagger2 架构详解](http://www.jianshu.com/p/01d3c014b0b1)
 
 ## 单元测试
