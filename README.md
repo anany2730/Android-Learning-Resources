@@ -97,6 +97,7 @@ Android学习资源网站大全
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
 * [Retrofit 的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
 * [Android Retrofit 2.0 使用-补充篇](http://www.jianshu.com/p/93153b34310e)
+* [Retrofit 笔记](http://www.jianshu.com/p/90b1f20b123d)
 
 ## MVP / MVVM 架构相关
 
