@@ -79,6 +79,7 @@ Android学习资源网站大全
 * [RxJava 的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [使用 RxBinding 响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
 * [详细解析 RxAndroid 的使用方式](http://www.jianshu.com/p/6d1ef9f43cdc)
+* [RxJava简洁封装之道](http://www.jianshu.com/p/f3f0eccbcd6f)
 
 ## 网络相关
 
