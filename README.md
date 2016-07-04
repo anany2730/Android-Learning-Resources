@@ -71,6 +71,7 @@ Android学习资源网站大全
 
 * [Rxjava 详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
 * [深入浅出 Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
+* [RxDocs - RxJava 文档中文版](https://github.com/mcxiaoke/RxDocs)
 * [RxJava resources](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
 * [RxJava 学习总结](http://wangxinghe.me/blog/2016-03-27/rxjava-basis/)
 * [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
