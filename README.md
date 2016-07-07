@@ -108,6 +108,7 @@ Android学习资源网站大全
 * [Google官方 MVP 案例 todoAPP 解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
 * [Android MVVM 框架](http://www.jianshu.com/p/6872b699879d)
 * [Dagger2 详解](http://www.jianshu.com/p/269c3f70ec1e)
+* [Android Dagger2 系列](http://www.jianshu.com/collection/b838b070d6de?utm_campaign=hugo&utm_medium=reader_share&utm_content=collection&utm_source=weibo)
 * [Google官方 MVP + Dagger2 架构详解](http://www.jianshu.com/p/01d3c014b0b1)
 
 ## 单元测试
