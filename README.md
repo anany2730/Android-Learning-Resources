@@ -3,6 +3,32 @@ Android学习资源网站大全
 
 整理了一些 Android 的博客链接、学习资源网站。**站在巨人的肩膀上，会看得更远**。整理这一份资源也方便更多的Android开发者能享受到技术分享的力量。首先，在这里要感谢所有开源项目的作者，感谢Trinea，CodeKK，张明云，胡凯等等大大无私的技术分享，感谢所有乐于分享学习经验的人。最后，若有侵权，请联系本人，本人将及时删除侵权内容。
 
+#目录
+* [1.官方学习资源【推荐必看】](#官方学习资源)
+* [2.值得关注的大牛博客](#值得关注的大牛博客)
+* [3.值得 Android 开发者阅读系列【推荐必看】](#值得Android开发者阅读系列)
+* [4.单元测试系列](#单元测试系列)
+* [5.框架相关](#框架相关)
+	* [网络请求相关](#网络请求相关)
+	* [RxJava 相关](#RxJava相关)
+	* [MVP / MVVM 架构相关](#MVP/MVVM架构相关)
+* [6.高质量 Android 社区](#高质量Android社区)
+* [7.开发工具，第三方开源项目(控件/框架)](#开发工具，第三方开源项目(控件/框架))
+* [8.视频学习网站](#视频学习网站)
+* [9.面试必看](#面试必看)
+
+
+## 官方学习资源
+
+* [Android Developer](http://developer.android.com/)
+* [Android Developer (无需梯子)](http://androiddoc.qiniudn.com/index.html)
+* [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+* [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+* [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
+* [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
+* [Gradle Android Plugin 中文版》](https://chaosleong.gitbooks.io/gradle-for-android/content/)
+* [Google samples](https://github.com/googlesamples) —— 看优秀代码是最好的学习方式
+
 ## 值得关注的大牛博客
 
 * [CodeKK](http://a.codekk.com/) —— 专注于开源项目源码解析及优秀开源项目的分享
@@ -36,18 +62,8 @@ Android学习资源网站大全
 * [BlackSwift](http://www.jianshu.com/users/b99b0edd4e77/latest_articles) —— 简书作者【Blur实时渲染，AnimeWallpaper】
 * [Android 源码解析专栏](http://blog.csdn.net/qq_23547831?viewmode=contents)
 
-## 官方学习网站 / Wiki
 
-* [Android Developer](http://developer.android.com/)
-* [Android Developer (无需梯子)](http://androiddoc.qiniudn.com/index.html)
-* [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
-* [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
-* [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
-* [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
-* [Gradle Android Plugin 中文版》](https://chaosleong.gitbooks.io/gradle-for-android/content/)
-* [Google samples](https://github.com/googlesamples) —— 看优秀代码是最好的学习方式
-
-## 值得 Android 开发者阅读系列【推荐必看】
+## 值得Android开发者阅读系列
 
 * [Android 学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/) —— stormzhang的Android学习之路
 * [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
@@ -65,22 +81,6 @@ Android学习资源网站大全
 * [你需要知道的 Android 拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
 * [Context 都没弄明白，还怎么做 Android 开发？](http://www.jianshu.com/p/94e0f9ab3f1d)
 * [Android 性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
-
-
-## RxJava 相关
-
-* [Rxjava 详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
-* [深入浅出 Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
-* [RxDocs - RxJava 文档中文版](https://github.com/mcxiaoke/RxDocs)
-* [RxJava resources](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
-* [RxJava 学习总结](http://wangxinghe.me/blog/2016-03-27/rxjava-basis/)
-* [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
-* [ReactiveX 文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
-* [RxJava + Dagger2 + LAMBDA 的一个 MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
-* [RxJava 的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [使用 RxBinding 响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
-* [详细解析 RxAndroid 的使用方式](http://www.jianshu.com/p/6d1ef9f43cdc)
-* [RxJava简洁封装之道](http://www.jianshu.com/p/f3f0eccbcd6f)
 
 ## 网络相关
 
@@ -101,7 +101,22 @@ Android学习资源网站大全
 * [Android Retrofit 2.0 使用-补充篇](http://www.jianshu.com/p/93153b34310e)
 * [Retrofit 笔记](http://www.jianshu.com/p/90b1f20b123d)
 
-## MVP / MVVM 架构相关
+## RxJava相关
+
+* [Rxjava 详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解
+* [深入浅出 Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
+* [RxDocs - RxJava 文档中文版](https://github.com/mcxiaoke/RxDocs)
+* [RxJava resources](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
+* [RxJava 学习总结](http://wangxinghe.me/blog/2016-03-27/rxjava-basis/)
+* [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
+* [ReactiveX 文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
+* [RxJava + Dagger2 + LAMBDA 的一个 MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
+* [RxJava 的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [使用 RxBinding 响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
+* [详细解析 RxAndroid 的使用方式](http://www.jianshu.com/p/6d1ef9f43cdc)
+* [RxJava简洁封装之道](http://www.jianshu.com/p/f3f0eccbcd6f)
+
+## MVP/MVVM架构相关
 
 * [不容错过，最全的 Android 架构合集](http://www.jianshu.com/p/1f21e1d375aa)
 * [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
@@ -111,7 +126,7 @@ Android学习资源网站大全
 * [Android Dagger2 系列](http://www.jianshu.com/collection/b838b070d6de?utm_campaign=hugo&utm_medium=reader_share&utm_content=collection&utm_source=weibo)
 * [Google官方 MVP + Dagger2 架构详解](http://www.jianshu.com/p/01d3c014b0b1)
 
-## 单元测试
+## 单元测试系列
 
 * [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
 * [Robolectric3.0 介绍](http://www.jianshu.com/p/9d988a2f8ff7)
@@ -122,7 +137,7 @@ Android学习资源网站大全
 * [解读 Android 官方 MVP 项目单元测试](http://www.jianshu.com/p/cf446be43ae8)
 * [美团 Android 单元测试研究与实践](http://tech.meituan.com/Android_unit_test.html)
 
-## 高质量 Android 社区
+## 高质量Android社区
 
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
 * [antoniolevia](http://antonioleiva.com) —— 国外android技术分享网站
@@ -144,6 +159,14 @@ Android学习资源网站大全
 * [图标下载库](http://www.flaticon.com) —— 160,428 vector icons grouped in 2,409 packs
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 
+## 视频学习网站
+
+* [Google 官方性能优化视频](http://chinagdg.org/google-videos/) —— GDG中译版
+* [慕课网](http://www.imooc.com/)
+* [极客学院](http://www.jikexueyuan.com/)
+* [麦子学院](http://www.maiziedu.com/)
+* [Udacity Google 官方视频教程](https://www.udacity.com/courses/android)
+
 ## 面试必看
 
 * [很详细的 Android 工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
@@ -154,11 +177,3 @@ Android学习资源网站大全
 * [快速了解 Android 重要机制](http://www.jianshu.com/p/5f6d79323923)
 * [Android 从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 * [知乎上回答的腾讯面经](https://www.zhihu.com/question/30070178/answer/92849985)
-
-## 视频学习网站
-
-* [Google 官方性能优化视频](http://chinagdg.org/google-videos/) —— GDG中译版
-* [慕课网](http://www.imooc.com/)
-* [极客学院](http://www.jikexueyuan.com/)
-* [麦子学院](http://www.maiziedu.com/)
-* [Udacity Google 官方视频教程](https://www.udacity.com/courses/android)
