@@ -12,10 +12,11 @@ Android学习资源网站大全
 	* [网络请求相关](#网络请求相关)
 	* [RxJava 相关](#RxJava相关)
 	* [MVP / MVVM 架构相关](#MVP/MVVM架构相关)
+	* [插件化开发](#插件化开发)
 * [6.高质量 Android 社区](#高质量Android社区)
 * [7.开发工具，第三方开源项目(控件/框架)](#开发工具，第三方开源项目(控件/框架))
 * [8.视频学习网站](#视频学习网站)
-* [9.面试必看](#面试必看)
+* [9.面试相关](#面试相关)
 
 
 ## 官方学习资源
@@ -126,6 +127,11 @@ Android学习资源网站大全
 * [Android Dagger2 系列](http://www.jianshu.com/collection/b838b070d6de?utm_campaign=hugo&utm_medium=reader_share&utm_content=collection&utm_source=weibo)
 * [Google官方 MVP + Dagger2 架构详解](http://www.jianshu.com/p/01d3c014b0b1)
 
+## 插件化开发
+
+* [插件化开发专栏](http://www.androidblog.cn/index.php/Index/detail/id/16) —— 有关插件化的资料这里全都有
+
+
 ## 单元测试系列
 
 * [unit-testing-with-android-studio](http://rexstjohn.com/unit-testing-with-android-studio/)
@@ -167,7 +173,7 @@ Android学习资源网站大全
 * [麦子学院](http://www.maiziedu.com/)
 * [Udacity Google 官方视频教程](https://www.udacity.com/courses/android)
 
-## 面试必看
+## 面试相关
 
 * [很详细的 Android 工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [Android 面霸君](http://mianbajun.sinaapp.com)
