@@ -66,7 +66,7 @@ Android学习资源网站大全
 
 ## 值得Android开发者阅读系列
 
-* [Android 学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/) —— stormzhang的Android学习之路
+* [Android 开发总览](http://www.nowamagic.net/academy/part/50/115/)
 * [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
 * [AndroidDifficultAnalysis](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis) —— 安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理
 * [Android 知识整理 GitBook](https://will_he.gitbooks.io/android/content/)
