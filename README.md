@@ -36,29 +36,26 @@ Android学习资源网站大全
 * [Trinea](http://www.trinea.cn/) —— 性能优化、源码解析
 * [老罗的Android之旅](http://blog.csdn.net/Luoshengyang) —— Android系统源代码分析
 * [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
-* [爱哥](http://blog.csdn.net/aigestudio) ——《Android源码设计模式》作者 关爱民 
-* [任玉刚](http://blog.csdn.net/singwhatiwanna) —— 《Android开发艺术探索》作者 CSDN博客
-* [郭霖](http://blog.csdn.net/guolin_blog) —— 《第一行代码》作者 CSDN博客
-* [鸿洋](http://blog.csdn.net/lmj623565791) —— CSDN 博客专家
+* [爱哥](http://blog.csdn.net/aigestudio) —— 自定义View相关基础文章非常经典 
+* [郭霖](http://blog.csdn.net/guolin_blog) 
+* [鸿洋](http://blog.csdn.net/lmj623565791) 
 * [胡凯](http://hukai.me) —— 专注性能优化
 * [张明云](http://www.jianshu.com/users/e6885381f7d4/latest_articles) —— Android学习之路
 * [Drakeet](http://drakeet.me) —— 贝壳单词APP开发者
-* [徐宜生](http://blog.csdn.net/eclipsexys) —— 《Android群英传》作者
-* [张涛](http://kymjs.com) —— KjFrame 作者
-* [脉脉不得语](http://www.inferjay.com/blog/categories/androiddevweekly/) —— 著名博主
 * [wangkuiwu](http://wangkuiwu.github.io) —— Binder、事件分发、动画解析
 * [高建武](http://www.jianshu.com/users/FK4sc4/latest_articles) —— 专注性能优化，简书著名博主
 * [hi大头鬼hi](http://blog.csdn.net/lzyzsd) —— 对RxJava有较深的研究
-* [Coder-pig](http://blog.csdn.net/coder_pig) —— CSDN 博客专家，最佳入门专栏
+* [Coder-pig](http://blog.csdn.net/coder_pig) —— 最佳入门专栏
 * [Keegan小刚](http://keeganlee.me/) —— 分享了多篇Android样式的文章
-* [郑海波](http://blog.csdn.net/NUPTboyZHB/) —— CSDN博主，文章大多与自定义控件相关
+* [郑海波](http://blog.csdn.net/NUPTboyZHB/) —— 文章大多与自定义控件相关
 * [吴小龙同学](http://wuxiaolong.me/) —— 分享了多篇关于AndroidDesignSupportLibrary的文章
 * [全速前行](http://blog.csdn.net/lincyang) —— 主讲实战技巧和平常遇到的问题
 * [ASCE 1985](http://blog.csdn.net/asce1885) —— 翻译了多篇使用Kotlin开发Android应用，平安科技移动开发二队技术周报作者
 * [mcxiaoke](http://blog.mcxiaoke.com) —— rxjava文档，EventBus博客，多渠道打包，一些开源项目
 * [WPJY](http://blog.csdn.net/wangjinyu501?viewmode=contents) —— 自定义View、开发经验
 * [Android Developers blog](http://android-developers.blogspot.jp/) —— Google's Android 博客
-* [江清清的专栏](http://blog.csdn.net/developer_jiangqq) —— 	大量实例讲解
+* [江清清的专栏](http://blog.csdn.net/developer_jiangqq) —— 大量实例讲解
+* [脉脉不得语](http://www.inferjay.com/blog/categories/androiddevweekly/) —— 著名博主
 * [hujiaweibujidao](http://hujiaweibujidao.github.io) —— 《Android开发艺术探索》读书笔记系列
 * [BlackSwift](http://www.jianshu.com/users/b99b0edd4e77/latest_articles) —— 简书作者【Blur实时渲染，AnimeWallpaper】
 * [Android 源码解析专栏](http://blog.csdn.net/qq_23547831?viewmode=contents)
@@ -175,6 +172,7 @@ Android学习资源网站大全
 
 ## 面试相关
 
+* [Android 开发工程师面试指南 Wiki](http://www.diycode.cc/wiki/androidinterview)
 * [很详细的 Android 工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 * [Android 面霸君](http://mianbajun.sinaapp.com)
 * [Android-discuss，可以作为面试题参考](https://github.com/android-cn/android-discuss/issues)
