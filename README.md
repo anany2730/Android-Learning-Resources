@@ -79,6 +79,7 @@ Android学习资源网站大全
 * [Android 从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 * [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 * [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
+* [Apk瘦身的几个技巧](http://www.jianshu.com/p/320eac29391a)
 
 ## 网络相关
 
