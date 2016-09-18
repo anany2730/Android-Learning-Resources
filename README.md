@@ -58,7 +58,7 @@ Android学习资源网站大全
 * [hujiaweibujidao](http://hujiaweibujidao.github.io) —— 《Android开发艺术探索》读书笔记系列
 * [BlackSwift](http://www.jianshu.com/users/b99b0edd4e77/latest_articles) —— 简书作者【Blur实时渲染，AnimeWallpaper】
 * [Android 源码解析专栏](http://blog.csdn.net/qq_23547831?viewmode=contents)
-
+* [DriodDeveloper](http://blog.csdn.net/hejjunlin) —— 原创FrameWork源码解析，插件化研究
 
 ## 值得Android开发者阅读系列
 
@@ -81,6 +81,7 @@ Android学习资源网站大全
 * [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
 * [Apk瘦身的几个技巧](http://www.jianshu.com/p/320eac29391a)
 * [Android内存泄漏总结](http://www.jianshu.com/p/cdc6d2e664f1)
+* [Android System UI Training](https://github.com/D-clock/AndroidSystemUiTraining)
 
 ## 网络相关
 
@@ -157,13 +158,12 @@ Android学习资源网站大全
 
 ## 开发工具第三方开源项目(控件/框架)集
 
-* [AndroidDevTools](http://www.androiddevtools.cn/) —— android各种工具，资源，我不信你不知道
+* [AndroidDevTools](http://www.androiddevtools.cn/) —— Android各种开发工具、SDK、资源
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
-* [2702款 开发工具开源软件](http://www.oschina.net/project/tag/11/devtools) 
 * [Android 资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
 * [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG) —— 各种UI图标库、工具集
 * [MD 调色板](http://www.materialpalette.com)
-* [icon 图标](https://icomoon.io/app/#/select) —— 各种icon图标
+* [Icon 图标](https://icomoon.io/app/#/select) —— 各种icon图标
 * [图标下载库](http://www.flaticon.com) —— 160,428 vector icons grouped in 2,409 packs
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 
@@ -186,3 +186,4 @@ Android学习资源网站大全
 * [快速了解 Android 重要机制](http://www.jianshu.com/p/5f6d79323923)
 * [知乎上回答的腾讯面经](https://www.zhihu.com/question/30070178/answer/92849985)
 * [BAT无线工程师面试流程详细解析](http://www.jianshu.com/p/f0d2ed1254a9)
+* [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
