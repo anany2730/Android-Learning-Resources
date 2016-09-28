@@ -187,3 +187,4 @@ Android学习资源网站大全
 * [知乎上回答的腾讯面经](https://www.zhihu.com/question/30070178/answer/92849985)
 * [BAT无线工程师面试流程详细解析](http://www.jianshu.com/p/f0d2ed1254a9)
 * [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
+* [冰姐 - 扫清Android面试障碍--面试前的准备](http://www.bingjie.me/2016/05/12/扫清面试前的准备.html)
