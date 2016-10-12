@@ -85,7 +85,8 @@ Android学习资源网站大全
 
 ## 网络相关
 
-* [HTTP 必知必会](http://www.cnblogs.com/starstone/p/4890409.html)
+* [HTTP 必知必会](http://www.cnblogs.com/starstone/p/4890409.html) —— 【推荐必看】
+* [Android安全开发之安全使用HTTPS](https://zhuanlan.zhihu.com/p/22816331) —— 【推荐必看】
 * [Retrofit 2 用法解析](https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/)
 * [OkHttp3 源码分析](http://www.jianshu.com/p/aad5aacd79bf)
 * [Volley 源码分析](http://blog.csdn.net/nugongahou110/article/details/46829605)
@@ -108,8 +109,8 @@ Android学习资源网站大全
 
 * [Rxjava 详解](http://gank.io/post/560e15be2dca930e00da1083) —— 抛物线出品经典Rxjava详解 【推荐必看】
 * [深入浅出 Rxjava](http://blog.csdn.net/lzyzsd/article/details/41833541) —— rx教父大头鬼出品深入浅出rxjava
-* [RxJava resources](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
-* [RxDocs - RxJava 文档中文版](https://github.com/mcxiaoke/RxDocs)
+* [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
+* [RxDocs-RxJava 文档中文版](https://github.com/mcxiaoke/RxDocs)
 * [RxJava 学习总结](http://wangxinghe.me/blog/2016-03-27/rxjava-basis/)
 * [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
 * [ReactiveX 文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
