@@ -69,6 +69,7 @@ Android学习资源网站大全
 * [值得阅读的 Android 技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) 
 * [整理一些比较好的 Android 开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
 * [Android 应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
+* [Android 客户端性能优化](http://blog.tingyun.com/web/article/detail/155)
 * [Segmentfault 上回答较好的一些问题](https://segmentfault.com/a/1190000004063006)
 * [Android 界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
 * [从零开始的 Android 新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/) —— 从架构搭建、到数据层之Retrofit与Realm
