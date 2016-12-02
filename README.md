@@ -62,6 +62,7 @@ Android学习资源网站大全
 
 ## 值得Android开发者阅读系列
 
+* [Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink/blob/master/README.md)
 * [Android-Tips](https://github.com/tangqi92/Android-Tips) —— 作者收集了大量Android开发Tip
 * [AndroidDifficultAnalysis](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis) —— 安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理
 * [Android 知识整理 GitBook](https://will_he.gitbooks.io/android/content/)
@@ -72,7 +73,7 @@ Android学习资源网站大全
 * [Android 客户端性能优化](http://blog.tingyun.com/web/article/detail/155)
 * [Segmentfault 上回答较好的一些问题](https://segmentfault.com/a/1190000004063006)
 * [Android 界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
-* [从零开始的 Android 新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/) —— 从架构搭建、到数据层之Retrofit与Realm
+* [从零开始的 Android 新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/)
 * [深入理解 Activity 启动流程](http://www.cloudchou.com/android/post-788.html) 
 * [你需要知道的 Android 拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
 * [Context 都没弄明白，还怎么做 Android 开发？](http://www.jianshu.com/p/94e0f9ab3f1d)
