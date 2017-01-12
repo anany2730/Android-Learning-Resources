@@ -114,6 +114,7 @@ Android学习资源网站大全
 * [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) —— rx教父大头鬼整理的Rxjava学习集合
 * [RxDocs-RxJava 文档中文版](https://github.com/mcxiaoke/RxDocs)
 * [RxJava 学习总结](http://wangxinghe.me/blog/2016-03-27/rxjava-basis/)
+* [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 * [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
 * [ReactiveX 文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
 * [RxJava + Dagger2 + LAMBDA 的一个 MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
