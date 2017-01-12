@@ -151,6 +151,7 @@ Android学习资源网站大全
 
 ## 高质量Android社区
 
+* [Gank.io 匠心写作](http://gank.io/post/published)
 * [鸿洋的 Android 社区](http://xueandroid.com/index) —— 全是干货
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
 * [antoniolevia](http://antonioleiva.com) —— 国外android技术分享网站
