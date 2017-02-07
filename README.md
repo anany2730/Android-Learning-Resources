@@ -183,6 +183,7 @@ Android学习资源网站大全
 
 ## 面试相关
 
+* [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)
 * [Android 面霸君](http://mianbajun.sinaapp.com)
 * [面试后的总结](http://kymjs.com/code/2016/03/08/01/)
 * [Android 开发工程师面试指南 Wiki](http://www.diycode.cc/wiki/androidinterview)
@@ -195,4 +196,3 @@ Android学习资源网站大全
 * [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
 * [冰姐 - 扫清Android面试障碍--面试前的准备](http://www.bingjie.me/2016/05/12/扫清面试前的准备.html)
 * [Java 虚拟机面试题全面解析](https://www.zybuluo.com/Yano/note/321063)
-* [国内一线互联网公司内部面试题库](http://blog.csdn.net/rain_butterfly/article/details/51946197)
