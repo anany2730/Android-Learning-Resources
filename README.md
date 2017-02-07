@@ -7,16 +7,18 @@ Android学习资源网站大全
 * [1.官方学习资源【推荐必看】](#官方学习资源)
 * [2.值得关注的大牛博客](#值得关注的大牛博客)
 * [3.值得 Android 开发者阅读系列【推荐必看】](#值得Android开发者阅读系列)
-* [4.单元测试系列](#单元测试系列)
-* [5.框架相关](#框架相关)
+* [4.UI自定义View](#UI自定义View)
+* [5.Android性能优化](#性能优化)
+* [6.单元测试系列](#单元测试系列)
+* [7.框架相关](#框架相关)
 	* [网络请求相关](#网络请求相关)
 	* [RxJava相关](#RxJava相关)
 	* [MVP/MVVM架构相关](#MVP/MVVM架构相关)
 	* [插件化开发](#插件化开发)
-* [6.高质量Android社区](#高质量Android社区)
-* [7.开发工具、第三方开源项目(控件/框架)](#开发工具第三方开源项目(控件/框架))
-* [8.视频学习网站](#视频学习网站)
-* [9.面试相关](#面试相关)
+* [8.高质量Android社区](#高质量Android社区)
+* [9.开发工具、第三方开源项目](#开发工具第三方开源项目)
+* [10.视频学习网站](#视频学习网站)
+* [11.面试相关](#面试相关)
 
 
 ## 优质学习资源
@@ -69,20 +71,34 @@ Android学习资源网站大全
 * [Android wiki 周刊](https://github.com/bboyfeiyu/android-tech-frontier/wiki)
 * [值得阅读的 Android 技术文章](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles) 
 * [整理一些比较好的 Android 开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/) —— 这些都是该作者在学习Android开发过程中觉得比较好的教程和博客
-* [Android 应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
-* [Android 客户端性能优化](http://blog.tingyun.com/web/article/detail/155)
 * [Segmentfault 上回答较好的一些问题](https://segmentfault.com/a/1190000004063006)
 * [Android 界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
 * [从零开始的 Android 新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/)
 * [深入理解 Activity 启动流程](http://www.cloudchou.com/android/post-788.html) 
 * [你需要知道的 Android 拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
 * [Context 都没弄明白，还怎么做 Android 开发？](http://www.jianshu.com/p/94e0f9ab3f1d)
-* [Android 性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
 * [Android 从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 * [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 * [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
-* [Apk瘦身的几个技巧](http://www.jianshu.com/p/320eac29391a)
-* [Android内存泄漏总结](http://www.jianshu.com/p/cdc6d2e664f1)
+
+## 性能优化
+
+* [Trinea - 性能优化系列总篇](http://www.trinea.cn/android/performance/)
+* [高建武 - 性能优化篇](http://androidperformance.com/2015/04/11/AndroidMemory-Usage-Of-MAT.html)
+* [Android 性能优化篇](http://www.jianshu.com/p/388c693c1b58)
+* [胡凯 - Android 性能优化典范](http://hukai.me/android-performance-patterns/)
+* [Android 内存泄漏总结](http://www.jianshu.com/p/cdc6d2e664f1)
+* [避免 Android 中 Context 引起的内存泄露](https://zhuanlan.zhihu.com/p/24974982?utm_source=weibo&utm_medium=social)
+* [Apk 瘦身的几个技巧](http://www.jianshu.com/p/320eac29391a)
+* [Android 性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
+* [Android 应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
+* [Android 客户端性能优化](http://blog.tingyun.com/web/article/detail/155)
+
+## UI自定义View
+
+* [安卓自定义View教程目录](http://www.gcssloop.com/customview/CustomViewIndex)
+* [Android自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
+* [简单说说Android自定义view学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101)
 * [Android System UI Training](https://github.com/D-clock/AndroidSystemUiTraining)
 
 ## 网络相关
@@ -162,7 +178,7 @@ Android学习资源网站大全
 * [掘金 Android](http://gold.xitu.io/explore/android)
 * [V2ex-Android](https://www.v2ex.com/go/android)
 
-## 开发工具第三方开源项目(控件/框架)集
+## 开发工具第三方开源项目
 
 * [AndroidDevTools](http://www.androiddevtools.cn/) —— Android各种开发工具、SDK、资源
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) —— 史上最全的Android开源项目汇总
