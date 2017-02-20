@@ -88,6 +88,7 @@ Android学习资源网站大全
 * [Android 性能优化篇](http://www.jianshu.com/p/388c693c1b58)
 * [胡凯 - Android 性能优化典范](http://hukai.me/android-performance-patterns/)
 * [Android 内存泄漏总结](http://www.jianshu.com/p/cdc6d2e664f1)
+* [stackoverflow 上的有关内存泄漏的回答](http://stackoverflow.com/documentation/android/2687/memory-leaks)
 * [避免 Android 中 Context 引起的内存泄露](https://zhuanlan.zhihu.com/p/24974982?utm_source=weibo&utm_medium=social)
 * [Apk 瘦身的几个技巧](http://www.jianshu.com/p/320eac29391a)
 * [Android 性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
