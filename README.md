@@ -101,6 +101,7 @@ Android学习资源网站大全
 * [Android自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
 * [简单说说Android自定义view学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101)
 * [Android System UI Training](https://github.com/D-clock/AndroidSystemUiTraining)
+* [Android 状态栏操作，你想知道的都在这里了](https://gold.xitu.io/post/58ad9ca70ce463006b24f134)
 
 ## 网络相关
 
