@@ -144,6 +144,7 @@ Android学习资源网站大全
 
 ## MVP/MVVM架构相关
 
+* [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html) —— 【推荐必看】
 * [不容错过，最全的 Android 架构合集](http://www.jianshu.com/p/1f21e1d375aa)
 * [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
 * [Google官方 MVP 案例 todoAPP 解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
