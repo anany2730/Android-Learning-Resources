@@ -107,24 +107,21 @@ Android学习资源网站大全
 
 * [HTTP 必知必会](http://www.cnblogs.com/starstone/p/4890409.html) —— 【推荐必看】
 * [In Introduction to HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html) ——【推荐必看】
+* [OkHttp：Java 平台上的新一代HTTP客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) —— 【推荐必看】
 * [Android安全开发之安全使用HTTPS](https://zhuanlan.zhihu.com/p/22816331) —— 【推荐必看】
 * [Retrofit 2 用法解析](https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/)
 * [OkHttp3 源码分析](http://www.jianshu.com/p/aad5aacd79bf)
 * [Volley 源码分析](http://blog.csdn.net/nugongahou110/article/details/46829605)
 * [Android网络请求心路历程](http://www.jianshu.com/p/3141d4e46240) —— 【推荐必看】
-* [OkHttp：Java 平台上的新一代HTTP客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) —— 【推荐必看】
-* [Retrofit 2.0 + OkHttp 3.0 配置](https://drakeet.me/retrofit-2-0-okhttp-3-0-config)
 * [理解 RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful)
 * [RxJava与Retrofit的封装](http://www.jianshu.com/p/93f8c9ae8819)
-* [Retrofit + RxJava实战日志](http://blog.csdn.net/efan006/article/details/50543990)
 * [使用 Retrofit 和 Okhttp 实现网络缓存](http://www.jianshu.com/p/9c3b4ea108a7) 
 * [RxJava 处理网络连接失败](http://www.jianshu.com/p/7e28c8216c7d)
 * [Android 推送技术研究](http://www.jianshu.com/p/584707554ed7)
 * [OkHttp, Retrofit, Volley 应该选择哪一个？](http://www.jianshu.com/p/77d418e7b5d6)
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
-* [Retrofit 的使用与深入学习](http://blog.csdn.net/evan_man/article/details/51320408)
 * [Android Retrofit 2.0 使用-补充篇](http://www.jianshu.com/p/93153b34310e)
-* [Retrofit 笔记](http://www.jianshu.com/p/90b1f20b123d)
+* [谈谈移动应用的安全性实践 - 网络篇](http://www.jianshu.com/p/d410911be40c)
 
 ## RxJava相关
 
@@ -136,8 +133,6 @@ Android学习资源网站大全
 * [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 * [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.9mc2oeyzo)
 * [ReactiveX 文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
-* [RxJava + Dagger2 + LAMBDA 的一个 MVP demo](https://github.com/richardradics/RxAndroidBootstrap)
-* [RxJava 的周末狂欢](http://mrfu.me/2016/01/10/RxWeekend/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [使用 RxBinding 响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
 * [详细解析 RxAndroid 的使用方式](http://www.jianshu.com/p/6d1ef9f43cdc)
 * [RxJava简洁封装之道](http://www.jianshu.com/p/f3f0eccbcd6f)
