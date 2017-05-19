@@ -19,6 +19,7 @@ Android学习资源网站大全
 * [9.开发工具、第三方开源项目](#开发工具第三方开源项目)
 * [10.视频学习网站](#视频学习网站)
 * [11.面试相关](#面试相关)
+* [12.Kotlin学习](#Kotlin学习) 
 
 
 ## 优质学习资源
@@ -214,3 +215,8 @@ Android学习资源网站大全
 * [冰姐 - 扫清 Android 面试障碍--面试前的准备](http://www.bingjie.me/2016/05/12/扫清面试前的准备.html)
 * [Java 虚拟机面试题全面解析](https://www.zybuluo.com/Yano/note/321063)
 * [关于 Android 性能、架构和技术问题的探索](http://www.jianshu.com/p/69141aa52f34?utm_source=desktop&utm_medium=timeline)
+
+## Kotlin学习
+
+* [Kotlin 资源大全 - 学 Kotlin 看这个就够了](https://juejin.im/post/591dd9f544d904006c9fbb96)
+* [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)
