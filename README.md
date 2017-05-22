@@ -109,6 +109,7 @@ Android学习资源网站大全
 * [HTTP 必知必会](http://www.cnblogs.com/starstone/p/4890409.html) —— 【推荐必看】
 * [In Introduction to HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html) ——【推荐必看】
 * [OkHttp：Java 平台上的新一代HTTP客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) —— 【推荐必看】
+* [HTTPS 原理浅析及其在 Android 中的使用](https://zhuanlan.zhihu.com/p/27040041) —— 【推荐必看】
 * [Android安全开发之安全使用HTTPS](https://zhuanlan.zhihu.com/p/22816331) —— 【推荐必看】
 * [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841) —— 【推荐必看】
 * [Retrofit 2 用法解析](https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/)
