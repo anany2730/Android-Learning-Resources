@@ -221,3 +221,4 @@ Android学习资源网站大全
 
 * [Kotlin 资源大全 - 学 Kotlin 看这个就够了](https://juejin.im/post/591dd9f544d904006c9fbb96)
 * [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)
+* [awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) 
