@@ -145,7 +145,8 @@ Android学习资源网站大全
 * [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html) —— 【推荐必看】
 * [不容错过，最全的 Android 架构合集](http://www.jianshu.com/p/1f21e1d375aa)
 * [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
-* [Google官方 MVP 案例 todoAPP 解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
+* [Google 官方 MVP 案例 todoAPP 解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
+* [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html) —— Google 官方 App 开发架构指南 【推荐必看】
 * [Android MVVM 框架](http://www.jianshu.com/p/6872b699879d)
 * [Dagger2 详解](http://www.jianshu.com/p/269c3f70ec1e)
 * [Android Dagger2 系列](http://www.jianshu.com/collection/b838b070d6de?utm_campaign=hugo&utm_medium=reader_share&utm_content=collection&utm_source=weibo)
@@ -169,9 +170,8 @@ Android学习资源网站大全
 
 ## 高质量Android社区
 
-* [Gank.io 匠心写作](http://gank.io/post/published)
+* [Gank.io 匠心写作](http://gank.io/post/published) —— 【推荐必看】
 * [Android 开发者酷站](https://www.diycode.cc/sites)
-* [鸿洋的 Android 社区](http://xueandroid.com/index) —— 全是干货
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
 * [antoniolevia](http://antonioleiva.com) —— 国外android技术分享网站
 * [Android 开发技术周报](http://www.androidweekly.cn) —— 长期更新最新前言资讯
