@@ -7,7 +7,7 @@ Android学习资源网站大全
 * [1.官方学习资源【推荐必看】](#官方学习资源)
 * [2.值得关注的大牛博客](#值得关注的大牛博客)
 * [3.值得 Android 开发者阅读系列【推荐必看】](#值得Android开发者阅读系列)
-* [4.UI自定义View](#UI自定义View)
+* [4.UI自定义View/动画](#UI自定义View/动画)
 * [5.Android性能优化](#性能优化)
 * [6.单元测试系列](#单元测试系列)
 * [7.框架相关](#框架相关)
@@ -96,11 +96,12 @@ Android学习资源网站大全
 * [Android 应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
 * [Android 客户端性能优化](http://blog.tingyun.com/web/article/detail/155)
 
-## UI自定义View
+## UI自定义View/动画
 
-* [安卓自定义View教程目录](http://www.gcssloop.com/customview/CustomViewIndex)
-* [Android自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
-* [简单说说Android自定义view学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101)
+* [安卓自定义 View 教程目录](http://www.gcssloop.com/customview/CustomViewIndex)
+* [Android 自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
+* [简单说说 Android 自定义 view 学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101)
+* [Android 高级动画](http://www.jianshu.com/p/48554844a2db?utm_source=desktop&utm_medium=timeline)
 * [Android System UI Training](https://github.com/D-clock/AndroidSystemUiTraining)
 * [Android 状态栏操作，你想知道的都在这里了](https://gold.xitu.io/post/58ad9ca70ce463006b24f134)
 
