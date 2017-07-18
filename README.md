@@ -21,7 +21,7 @@ Android学习资源网站大全
 
 ## 优质学习资源
 
-* [Android Developer](http://developer.android.com/)【推荐必看】
+* [Android Developer](http://developer.android.com.cn/)【推荐必看】
 * [Android Developer (七牛镜像)](http://androiddoc.qiniudn.com/index.html)
 * [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)【推荐必看】
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
