@@ -97,7 +97,7 @@ Android学习资源网站大全
 
 ## UI/自定义View/动画
 
-* [http://hencoder.com/ui-1-1/](http://hencoder.com/ui-1-1/) —— 扔物线出品【推荐必看】
+* [Android 开发进阶: 自定义 View](http://hencoder.com/ui-1-1/) —— 扔物线出品【推荐必看】
 * [安卓自定义 View 教程目录](http://www.gcssloop.com/customview/CustomViewIndex)
 * [Android 自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
 * [简单说说 Android 自定义 view 学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101)
