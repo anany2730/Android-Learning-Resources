@@ -7,7 +7,7 @@ Android学习资源网站大全
 * [1.官方学习资源【推荐必看】](#官方学习资源)
 * [2.值得关注的大牛博客](#值得关注的大牛博客)
 * [3.值得 Android 开发者阅读系列【推荐必看】](#值得Android开发者阅读系列)
-* [4.UI自定义View/动画](#UI自定义View/动画)
+* [4.UI/自定义View/动画](#UI自定义View/动画)
 * [5.Android性能优化](#性能优化)
 * [6.单元测试系列](#单元测试系列)
 * [7.框架相关](#框架相关)
@@ -80,7 +80,6 @@ Android学习资源网站大全
 * [Context 都没弄明白，还怎么做 Android 开发？](http://www.jianshu.com/p/94e0f9ab3f1d)
 * [Android 从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 * [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
-* [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
 
 ## 性能优化
 
@@ -96,14 +95,17 @@ Android学习资源网站大全
 * [Android 应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
 * [Android 客户端性能优化](http://blog.tingyun.com/web/article/detail/155)
 
-## UI自定义View/动画
+## UI/自定义View/动画
 
+* [http://hencoder.com/ui-1-1/](http://hencoder.com/ui-1-1/) —— 扔物线出品【推荐必看】
 * [安卓自定义 View 教程目录](http://www.gcssloop.com/customview/CustomViewIndex)
 * [Android 自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
 * [简单说说 Android 自定义 view 学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101)
 * [Android 高级动画](http://www.jianshu.com/p/48554844a2db?utm_source=desktop&utm_medium=timeline)
 * [Android System UI Training](https://github.com/D-clock/AndroidSystemUiTraining)
 * [Android 状态栏操作，你想知道的都在这里了](https://gold.xitu.io/post/58ad9ca70ce463006b24f134)
+* [一文彻底搞懂 Design 设计的 CoordinatorLayout 和 AppbarLayout 联动](http://www.jianshu.com/p/640f4ef05fb2?utm_source=desktop&utm_medium=timeline)
+* [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
 
 ## 网络相关
 
