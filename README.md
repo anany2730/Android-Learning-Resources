@@ -194,6 +194,7 @@ Android学习资源网站大全
 * [Icon 图标](https://icomoon.io/app/#/select) —— 各种icon图标
 * [图标下载库](http://www.flaticon.com) —— 160,428 vector icons grouped in 2,409 packs
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
+* [Android-Studio-Plugins](https://github.com/balsikandar/Android-Studio-Plugins) —— This is a list of all awesome and useful android studio plugins.
 
 ## 视频学习网站
 
