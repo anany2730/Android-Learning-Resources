@@ -191,6 +191,7 @@ Android学习资源网站大全
 * [Android 资源库列表](http://app.memect.com/doc/android.html) —— 一个超级棒的安卓资源库列表
 * [最强开发资源平台大合集](http://www.oschina.net/question/2285044_219206?fromerr=gEGePPMG) —— 各种UI图标库、工具集
 * [MD 调色板](http://www.materialpalette.com)
+* [阿里矢量图标库](http://www.iconfont.cn/)
 * [Icon 图标](https://icomoon.io/app/#/select) —— 各种icon图标
 * [图标下载库](http://www.flaticon.com) —— 160,428 vector icons grouped in 2,409 packs
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
