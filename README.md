@@ -208,7 +208,6 @@ Android学习资源网站大全
 ## 面试相关
 
 * [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)
-* [Android 面霸君](http://mianbajun.sinaapp.com)
 * [面试后的总结](http://kymjs.com/code/2016/03/08/01/)
 * [Android 开发工程师面试指南 Wiki](http://www.diycode.cc/wiki/androidinterview)
 * [很详细的 Android 工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
