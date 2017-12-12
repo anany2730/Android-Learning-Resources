@@ -3,7 +3,7 @@ Android学习资源网站大全
 
 整理了一些 Android 的博客链接、学习资源网站。**站在巨人的肩膀上，会看得更远**。整理这一份资源也方便更多的Android开发者能享受到技术分享的力量。首先，在这里要感谢所有开源项目的作者，感谢Trinea，CodeKK，张明云，胡凯等等大大无私的技术分享，感谢所有乐于分享学习经验的人。最后，若有侵权，请联系本人，本人将及时删除侵权内容。
 
-#目录
+## 目录
 * [1.官方学习资源【推荐必看】](#官方学习资源)
 * [2.值得关注的大牛博客](#值得关注的大牛博客)
 * [3.值得 Android 开发者阅读系列【推荐必看】](#值得Android开发者阅读系列)
@@ -33,6 +33,7 @@ Android学习资源网站大全
 * [Gradle Android Plugin 中文版](https://chaosleong.gitbooks.io/gradle-for-android/content/)
 * [Google samples](https://github.com/googlesamples) —— Google官方Samples源码 【推荐必看】
 * [Android Developers blog](http://android-developers.blogspot.jp/) —— Google官方Android博客
+* [Android 学习笔记](https://github.com/CharonChui/AndroidNote)
 
 ## 值得关注的大牛博客
 
