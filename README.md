@@ -4,22 +4,21 @@ Android学习资源网站大全
 整理了一些 Android 的博客链接、学习资源网站。**站在巨人的肩膀上，会看得更远**。整理这一份资源也方便更多的Android开发者能享受到技术分享的力量。首先，在这里要感谢所有开源项目的作者，感谢Trinea，CodeKK，张明云，胡凯等等大大无私的技术分享，感谢所有乐于分享学习经验的人。最后，若有侵权，请联系本人，本人将及时删除侵权内容。
 
 ## 目录
-* [1.官方学习资源【推荐必看】](#官方学习资源)
+* [1.官方学习资源](#官方学习资源)
 * [2.值得关注的大牛博客](#值得关注的大牛博客)
 * [3.值得 Android 开发者阅读系列【推荐必看】](#值得Android开发者阅读系列)
-* [4.UI/自定义View/动画](#UI自定义View/动画)
-* [5.Android性能优化](#性能优化)
-* [6.单元测试系列](#单元测试系列)
-* [7.框架相关](#框架相关)
-	* [网络请求相关](#网络请求相关)
-	* [RxJava相关](#RxJava相关)
-	* [MVP/MVVM架构相关](#MVP/MVVM架构相关)
+* [4.UI/自定义 View/动画](#UI自定义View/动画)
+* [5.Android 性能优化](#性能优化)
+* [6.Android 单元测试系列](#单元测试系列)
+* [7.Android 架构/框架相关](#框架相关)
+	* [MVP/MVVM 架构相关](#MVP/MVVM架构相关)
+	* [组件化开发](#组件化开发)
 	* [插件化开发](#插件化开发)
-* [8.高质量Android社区](#高质量Android社区)
+* [8.高质量 Android 社区](#高质量Android社区)
 * [9.开发工具、第三方开源项目](#开发工具第三方开源项目)
 * [10.视频学习网站](#视频学习网站)
 * [11.面试相关](#面试相关)
-* [12.Kotlin学习](#Kotlin学习) 
+* [12.Kotlin 学习](#Kotlin学习) 
 
 
 ## 优质学习资源
@@ -31,7 +30,7 @@ Android学习资源网站大全
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
 * [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
 * [Gradle Android Plugin 中文版](https://chaosleong.gitbooks.io/gradle-for-android/content/)
-* [Google samples](https://github.com/googlesamples) —— Google官方Samples源码 【推荐必看】
+* [Google samples](https://github.com/googlesamples) —— Google官方Samples源码 
 * [Android Developers blog](http://android-developers.blogspot.jp/) —— Google官方Android博客
 * [Android 学习笔记](https://github.com/CharonChui/AndroidNote)
 
@@ -160,6 +159,9 @@ Android学习资源网站大全
 
 * [插件化开发专栏](http://www.androidblog.cn/index.php/Index/detail/id/16) —— 有关插件化的资料这里全都有
 
+## 组件化开发
+
+* [多个维度对比一些有代表性的开源android组件化开发方案](https://github.com/luckybilly/AndroidComponentizeLibs)
 
 ## 单元测试系列
 
