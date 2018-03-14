@@ -211,6 +211,8 @@ Android学习资源网站大全
 
 ## 面试相关
 
+* [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
+* [2018 BAT等大厂最全面试题集锦](https://mp.weixin.qq.com/s/pWclfrpvuaCtbxHvRzA73A)
 * [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)
 * [面试后的总结](http://kymjs.com/code/2016/03/08/01/)
 * [Android 开发工程师面试指南 Wiki](http://www.diycode.cc/wiki/androidinterview)
