@@ -78,6 +78,7 @@ Android学习资源网站大全
 * [深入理解 Activity 启动流程](http://www.cloudchou.com/android/post-788.html) 
 * [你需要知道的 Android 拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
 * [Context 都没弄明白，还怎么做 Android 开发？](http://www.jianshu.com/p/94e0f9ab3f1d)
+* [Android framework层源码解析](https://github.com/yipianfengye/androidSource)
 * [Android 从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 * [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 
