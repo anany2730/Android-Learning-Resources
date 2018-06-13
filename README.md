@@ -165,6 +165,7 @@ Android学习资源网站大全
 
 * [多个维度对比一些有代表性的开源android组件化开发方案](https://github.com/luckybilly/AndroidComponentizeLibs)
 * [考拉Android客户端路由总线设计](http://iluhcm.com/2017/07/12/design-of-router-using-in-android/)
+* [美团猫眼电影android模块化实战](https://www.jianshu.com/p/d372cc6802e5)
 
 ## 单元测试系列
 
