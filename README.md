@@ -129,6 +129,7 @@ Android学习资源网站大全
 * [Retrofit 文件上传下载](http://blog.csdn.net/qq_21430549/article/details/51212977)
 * [Android Retrofit 2.0 使用-补充篇](http://www.jianshu.com/p/93153b34310e)
 * [谈谈移动应用的安全性实践 - 网络篇](http://www.jianshu.com/p/d410911be40c)
+* [脑残式网络编程入门](https://my.oschina.net/jb2011/blog/1840038)
 
 ## RxJava相关
 
