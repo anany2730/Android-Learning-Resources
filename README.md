@@ -94,6 +94,7 @@ Android学习资源网站大全
 * [Android 性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
 * [Android 应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
 * [Android 客户端性能优化](http://blog.tingyun.com/web/article/detail/155)
+* [美团 WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
 
 ## UI/自定义View/动画
 
