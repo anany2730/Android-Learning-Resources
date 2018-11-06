@@ -35,14 +35,9 @@ Android学习资源网站大全
 
 ## 值得关注的大牛博客
 
-* [CodeKK](http://a.codekk.com/) 
-* [Trinea](http://www.trinea.cn/) 
-* [老罗的Android之旅](http://blog.csdn.net/Luoshengyang) 
-* [开发技术前线](http://www.devtf.cn/) 
-* [爱哥](http://blog.csdn.net/aigestudio)  
+* [老罗的Android之旅](http://blog.csdn.net/Luoshengyang)  
 * [郭霖](http://blog.csdn.net/guolin_blog) 
 * [鸿洋](http://blog.csdn.net/lmj623565791) 
-* [胡凯](http://hukai.me) 
 * [张明云](http://www.jianshu.com/users/e6885381f7d4/latest_articles)
 * [Drakeet](http://drakeet.me) 
 * [wangkuiwu](http://wangkuiwu.github.io) —— Binder、事件分发、动画解析
@@ -80,6 +75,7 @@ Android学习资源网站大全
 * [Android framework层源码解析](https://github.com/yipianfengye/androidSource)
 * [Android 从开机到打开第一个应用的执行流程](https://segmentfault.com/a/1190000004676352)
 * [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
+* [一份系统、全面的安卓进阶学习指南](https://github.com/iwannabetop/Awesome-Android-Learning-Guide)
 
 ## 性能优化
 
@@ -131,6 +127,7 @@ Android学习资源网站大全
 * [Android Retrofit 2.0 使用-补充篇](http://www.jianshu.com/p/93153b34310e)
 * [谈谈移动应用的安全性实践 - 网络篇](http://www.jianshu.com/p/d410911be40c)
 * [脑残式网络编程入门](https://my.oschina.net/jb2011/blog/1840038)
+* [浅谈 Http 缓存](https://juejin.im/post/5bdeabbbe51d4505466cd741)
 
 ## RxJava相关
 
