@@ -10,7 +10,7 @@ Android学习资源大全
 * [4. UI/自定义 View/动画](#UI自定义View/动画)
 * [5. Android 性能优化](#性能优化)
 * [6. Android 单元测试系列](#单元测试系列)
-* [7. Android 进阶](#Android 进阶)
+* [7. Android 进阶](#Android进阶)
   * [原理解析](#源码解析)
   * [MVP / MVVM 架构相关](#MVP/MVVM架构相关)
   * [组件化开发](#组件化开发)
