@@ -115,6 +115,7 @@ Android学习资源大全
 * [谈谈移动应用的安全性实践 - 网络篇](http://www.jianshu.com/p/d410911be40c)
 * [脑残式网络编程入门](https://my.oschina.net/jb2011/blog/1840038)
 * [浅谈 Http 缓存](https://juejin.im/post/5bdeabbbe51d4505466cd741)
+* [一篇文章带你熟悉 TCP/IP 协议](https://segmentfault.com/a/1190000016771604) 
 
 ## 原理解析
 * [Android framework层源码解析](https://github.com/yipianfengye/androidSource)
