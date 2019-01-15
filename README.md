@@ -228,3 +228,4 @@ Android学习资源大全
 * [冰姐 - 扫清 Android 面试障碍--面试前的准备](http://www.bingjie.me/2016/05/12/扫清面试前的准备.html)
 * [Java 虚拟机面试题全面解析](https://www.zybuluo.com/Yano/note/321063)
 * [关于 Android 性能、架构和技术问题的探索](http://www.jianshu.com/p/69141aa52f34?utm_source=desktop&utm_medium=timeline)
+* [2018年BATJ面试题精选](https://github.com/randian666/algorithm-study)
