@@ -30,7 +30,7 @@ Android学习资源大全
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/) 
 * [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
 * [Android 学习笔记](https://github.com/CharonChui/AndroidNote)
-* [Android校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/content/)
+* [Android 校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/content/)
 
 ## 值得关注的博主
 
@@ -64,7 +64,7 @@ Android学习资源大全
 * [Android 界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)
 * [从零开始的 Android 新项目](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/)
 * [你需要知道的 Android 拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
-* [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
+* [你所不知道的 Android Studio 调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 * [一份系统、全面的安卓进阶学习指南](https://github.com/iwannabetop/Awesome-Android-Learning-Guide)
 
 ## 性能优化
@@ -98,15 +98,15 @@ Android学习资源大全
 
 * [HTTP 必知必会](http://www.cnblogs.com/starstone/p/4890409.html) 
 * [In Introduction to HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html) 
-* [图解从URL到网页通信原理（TCP/IP）](https://juejin.im/post/5b1265edf265da6e155d45a9) 
+* [图解从 URL 到网页通信原理（TCP/IP）](https://juejin.im/post/5b1265edf265da6e155d45a9) 
 * [OkHttp：Java 平台上的新一代HTTP客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/) 
 * [HTTPS 原理浅析及其在 Android 中的使用](https://zhuanlan.zhihu.com/p/27040041) 
-* [Android安全开发之安全使用HTTPS](https://zhuanlan.zhihu.com/p/22816331)
+* [Android 安全开发之安全使用HTTPS](https://zhuanlan.zhihu.com/p/22816331)
 * [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841) 
 * [Retrofit 2 用法解析](https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/)
-* [Android网络请求心路历程](http://www.jianshu.com/p/3141d4e46240)
+* [Android 网络请求心路历程](http://www.jianshu.com/p/3141d4e46240)
 * [理解 RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful)
-* [RxJava与Retrofit的封装](http://www.jianshu.com/p/93f8c9ae8819)
+* [RxJava 与 Retrofit 的封装](http://www.jianshu.com/p/93f8c9ae8819)
 * [使用 Retrofit 和 Okhttp 实现网络缓存](http://www.jianshu.com/p/9c3b4ea108a7) 
 * [RxJava 处理网络连接失败](http://www.jianshu.com/p/7e28c8216c7d)
 * [Android 推送技术研究](http://www.jianshu.com/p/584707554ed7)
@@ -144,7 +144,7 @@ Android学习资源大全
 * [ReactiveX 文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
 * [使用 RxBinding 响应控件的异步事件](http://www.jianshu.com/p/c2c7c46e6b97)
 * [详细解析 RxAndroid 的使用方式](http://www.jianshu.com/p/6d1ef9f43cdc)
-* [RxJava简洁封装之道](http://www.jianshu.com/p/f3f0eccbcd6f)
+* [RxJava 简洁封装之道](http://www.jianshu.com/p/f3f0eccbcd6f)
 
 ## MVP/MVVM架构相关
 
@@ -166,9 +166,9 @@ Android学习资源大全
 ## 组件化开发
 
 * [多个维度对比一些有代表性的开源android组件化开发方案](https://github.com/luckybilly/AndroidComponentizeLibs)
-* [考拉Android客户端路由总线设计](http://iluhcm.com/2017/07/12/design-of-router-using-in-android/)
-* [美团猫眼电影android模块化实战](https://www.jianshu.com/p/d372cc6802e5)
-* [总结Android模块化的一些知识点](https://github.com/LiushuiXiaoxia/AndroidModular) 
+* [考拉 Android 客户端路由总线设计](http://iluhcm.com/2017/07/12/design-of-router-using-in-android/)
+* [美团猫眼电影 android 模块化实战](https://www.jianshu.com/p/d372cc6802e5)
+* [总结 Android 模块化的一些知识点](https://github.com/LiushuiXiaoxia/AndroidModular) 
 
 ## 单元测试系列
 
@@ -229,4 +229,4 @@ Android学习资源大全
 * [冰姐 - 扫清 Android 面试障碍--面试前的准备](http://www.bingjie.me/2016/05/12/扫清面试前的准备.html)
 * [Java 虚拟机面试题全面解析](https://www.zybuluo.com/Yano/note/321063)
 * [关于 Android 性能、架构和技术问题的探索](http://www.jianshu.com/p/69141aa52f34?utm_source=desktop&utm_medium=timeline)
-* [2018年BATJ面试题精选](https://github.com/randian666/algorithm-study)
+* [2018年 BATJ 面试题精选](https://github.com/randian666/algorithm-study)
