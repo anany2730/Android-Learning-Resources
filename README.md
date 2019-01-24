@@ -24,12 +24,13 @@ Android学习资源大全
 
 ## 优质学习资源
 
-* [Android Developer](https://developer.android.google.cn/)
+* [Android Developer](https://developer.android.google.cn/)  
 * [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/) 
 * [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
 * [Android 学习笔记](https://github.com/CharonChui/AndroidNote)
+* [Android校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/content/)
 
 ## 值得关注的博主
 
