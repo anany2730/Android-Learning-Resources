@@ -81,6 +81,7 @@ Android学习资源大全
 * [Android 应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)
 * [Android 客户端性能优化](http://blog.tingyun.com/web/article/detail/155)
 * [美团 WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
+* [Android 端心跳服务与进程保活](https://github.com/sunfusheng/DaemonService)
 
 ## UI/自定义View/动画
 
