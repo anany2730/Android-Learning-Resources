@@ -214,6 +214,7 @@ Android学习资源大全
 
 ## 面试相关
 
+* [2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目](https://github.com/0voice/interview_internal_reference)
 * [最全面的高质量 Android 面试指南](https://github.com/stormzhang/android-interview-questions-cn)
 * [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 * [2018 BAT等大厂最全面试题集锦](https://mp.weixin.qq.com/s/pWclfrpvuaCtbxHvRzA73A)
