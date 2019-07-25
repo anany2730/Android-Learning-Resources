@@ -91,6 +91,7 @@ Android学习资源大全
 * [Android 自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
 * [简单说说 Android 自定义 view 学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101)
 * [Android 高级动画](http://www.jianshu.com/p/48554844a2db?utm_source=desktop&utm_medium=timeline)
+* [Android：这是一份全面 & 详细的补间动画使用教程](https://juejin.im/entry/5d38fcfd6fb9a07ed524e2b4)
 * [Android System UI Training](https://github.com/D-clock/AndroidSystemUiTraining)
 * [Android 状态栏操作，你想知道的都在这里了](https://gold.xitu.io/post/58ad9ca70ce463006b24f134)
 * [一文彻底搞懂 Design 设计的 CoordinatorLayout 和 AppbarLayout 联动](http://www.jianshu.com/p/640f4ef05fb2?utm_source=desktop&utm_medium=timeline)
@@ -175,6 +176,7 @@ Android学习资源大全
 
 * [Flutter 中文网](https://flutterchina.club/)
 * [Flutter 入门实例](https://juejin.im/post/5b31d776e51d455e2b5ab253)
+* [Android：手把手带你入门跨平台UI开发框架 Flutter](https://juejin.im/entry/5d38fe84f265da1b96134867)
 * [Kotlin + MVP + Flutter ，让你可以在自己的项目中集成 Flutter 并使用](https://juejin.im/post/5b7cf52e51882542c963f0f1)
 
 ## 单元测试系列
