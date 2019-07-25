@@ -15,6 +15,7 @@ Android学习资源大全
   * [MVP / MVVM 架构相关](#MVP/MVVM架构相关)
   * [组件化开发](#组件化开发)
   * [插件化开发](#插件化开发)
+  * [混合开发 Flutter / React native / Weex](#混合开发)
   * [Kotlin 系列](#Kotlin系列) 
   * [Rxjava 系列](#Rxjava系列) 
 * [8. 高质量 Android 社区](#高质量Android社区)
@@ -151,9 +152,8 @@ Android学习资源大全
 
 * [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html) 
 * [不容错过，最全的 Android 架构合集](http://www.jianshu.com/p/1f21e1d375aa)
-* [Android MVP 详解](http://www.jianshu.com/p/0590f530c617)
-* [Google 官方 MVP 案例 todoAPP 解析](http://www.judymax.com/archives/1141?utm_source=tuicool&utm_medium=referral)
-* [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html) 
+* [Android Architecture Components 只看这一篇就够了](https://juejin.im/post/5b30e39bf265da599423510a)
+* [Android Architecture Components 官方文档](https://developer.android.com/topic/libraries/architecture/index.html) 
 * [Android MVVM 框架](http://www.jianshu.com/p/6872b699879d)
 * [Dagger2 详解](http://www.jianshu.com/p/269c3f70ec1e)
 * [Android Dagger2 系列](http://www.jianshu.com/collection/b838b070d6de?utm_campaign=hugo&utm_medium=reader_share&utm_content=collection&utm_source=weibo)
@@ -170,6 +170,12 @@ Android学习资源大全
 * [考拉 Android 客户端路由总线设计](http://iluhcm.com/2017/07/12/design-of-router-using-in-android/)
 * [美团猫眼电影 android 模块化实战](https://www.jianshu.com/p/d372cc6802e5)
 * [总结 Android 模块化的一些知识点](https://github.com/LiushuiXiaoxia/AndroidModular) 
+
+## 混合开发
+
+* [Flutter 中文网](https://flutterchina.club/)
+* [Flutter 入门实例](https://juejin.im/post/5b31d776e51d455e2b5ab253)
+* [Kotlin + MVP + Flutter ，让你可以在自己的项目中集成 Flutter 并使用](https://juejin.im/post/5b7cf52e51882542c963f0f1)
 
 ## 单元测试系列
 
