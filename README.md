@@ -178,6 +178,7 @@ Android学习资源大全
 * [Flutter 入门实例](https://juejin.im/post/5b31d776e51d455e2b5ab253)
 * [Android：手把手带你入门跨平台UI开发框架 Flutter](https://juejin.im/entry/5d38fe84f265da1b96134867)
 * [Kotlin + MVP + Flutter ，让你可以在自己的项目中集成 Flutter 并使用](https://juejin.im/post/5b7cf52e51882542c963f0f1)
+* [超完整的Flutter项目，功能丰富，适合学习和日常使用](https://github.com/zhaochengxiang/flutter_lychee)
 
 ## 单元测试系列
 
