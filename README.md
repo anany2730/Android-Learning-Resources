@@ -5,12 +5,11 @@ Android学习资源大全
 
 ## 目录
 * [1. 官方学习资源](#官方学习资源)
-* [2. 值得关注的博主](#值得关注的博主)
-* [3. 值得 Android 开发者阅读系列](#值得Android开发者阅读系列)
-* [4. UI/自定义 View/动画](#UI自定义View/动画)
-* [5. Android 性能优化](#性能优化)
-* [6. Android 单元测试系列](#单元测试系列)
-* [7. Android 进阶](#Android进阶)
+* [2. 值得 Android 开发者阅读系列](#值得Android开发者阅读系列)
+* [3. UI/自定义 View/动画](#UI自定义View/动画)
+* [4. Android 性能优化](#性能优化)
+* [5. Android 单元测试系列](#单元测试系列)
+* [6. Android 进阶](#Android进阶)
   * [原理解析](#源码解析)
   * [MVP / MVVM 架构相关](#MVP/MVVM架构相关)
   * [组件化开发](#组件化开发)
@@ -18,9 +17,9 @@ Android学习资源大全
   * [混合开发 Flutter / React native / Weex](#混合开发)
   * [Kotlin 系列](#Kotlin系列) 
   * [Rxjava 系列](#Rxjava系列) 
-* [8. 高质量 Android 社区](#高质量Android社区)
-* [9. 开发工具集合](#开发工具集合)
-* [10. 面试相关](#面试相关)
+* [7. 高质量 Android 社区](#高质量Android社区)
+* [8. 开发工具集合](#开发工具集合)
+* [9. 面试相关](#面试相关)
 
 
 ## 优质学习资源
@@ -28,29 +27,10 @@ Android学习资源大全
 * [Android Developer](https://developer.android.google.cn/)  
 * [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
-* [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/) 
 * [极客学院 Wiki Android 板块](http://wiki.jikexueyuan.com/list/android)
+* [Android-open-source-project-analysis](https://github.com/sucese/android-open-source-project-analysis) —— 进阶推荐
 * [Android 学习笔记](https://github.com/CharonChui/AndroidNote)
 * [Android 校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/content/)
-
-## 值得关注的博主
-
-* [老罗的Android之旅](http://blog.csdn.net/Luoshengyang)  
-* [郭霖](http://blog.csdn.net/guolin_blog)                                               
-* [鸿洋](http://blog.csdn.net/lmj623565791)                                                
-* [张明云](http://www.jianshu.com/users/e6885381f7d4/latest_articles)                                             ——  步步高工程师，分享很多技术专题
-* [wangkuiwu](http://wangkuiwu.github.io)                                    ——  Binder、事件分发、动画解析
-* [高建武](http://www.jianshu.com/users/FK4sc4/latest_articles)                                             ——  性能优化相关文章
-* [hi大头鬼hi](http://blog.csdn.net/lzyzsd)                                      ——  RxJava 相关文章
-* [Coder-pig](http://blog.csdn.net/coder_pig)                                       ——  最佳入门专栏
-* [Keegan小刚](http://keeganlee.me/)                                    ——  分享了多篇Android样式的文章
-* [郑海波](http://blog.csdn.net/NUPTboyZHB/)                                             ——  文章大多与自定义控件相关
-* [吴小龙同学](http://wuxiaolong.me/)                                     ——  分享了多篇关于AndroidDesignSupportLibrary的文章
-* [全速前行](http://blog.csdn.net/lincyang)                                         ——  主讲实战技巧和平常遇到的问题
-* [ASCE 1985](http://blog.csdn.net/asce1885)                                      ——  翻译了多篇使用Kotlin开发Android应用
-* [mcxiaoke](http://blog.mcxiaoke.com)                                        ——  RxJava 文档，EventBus博客，多渠道打包，一些开源项目
-* [WPJY](http://blog.csdn.net/wangjinyu501?viewmode=contents)                                                ——  自定义 View、开发经验
-* [DriodDeveloper](http://blog.csdn.net/hejjunlin)                             ——  原创 FrameWork源码解析，插件化研究
 
 ## 值得Android开发者阅读系列
 
